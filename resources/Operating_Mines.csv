@@ -1,0 +1,497 @@
+SITE_CODE,SHORT_TITLE,TITLE,STAGE,PROJECT_TITLE,LONGITUDE,LATITUDE,EASTING,NORTHING,MGA_ZONE,COMMODITIES,COMMODITY_GROUP_NAME,TARGET_GROUP_NAME,EXTRACT_DATE
+S0001726,Boddington Bauxite,Boddington Bauxite,Operating,Worsley,116.455902,-32.931561,449133,6356168,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0001739,Willowdale,Willowdale,Operating,Wagerup-Pinjarra / Alcoa,116.014801,-32.920719,407882,6357071,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0003638,Marradong,Marradong,Operating,Worsley,116.434898,-32.836769,447113,6366667,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0003656,O'Neil,Huntly - O'Neil,Operating,Wagerup-Pinjarra / Alcoa,116.2015,-32.515442,425001,6402148,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0005694,Myara S,Huntly - Myara South,Operating,Wagerup-Pinjarra / Alcoa,116.05947,-32.498088,411644,6403963,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0006557,Karafil,Karafil,Operating,Worsley,116.424417,-32.910145,446177,6358527,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0022337,Hotham N Extension,Hotham North Extension,Under Development,Worsley,116.426498,-32.656319,446218,6386667,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0230587,McCoy,Huntly - McCoy,Operating,Wagerup-Pinjarra / Alcoa,116.163598,-32.559864,421480,6397196,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0233540,Orion,Orion - Willowdale,Operating,Wagerup-Pinjarra / Alcoa,116.05697,-32.842827,411749,6365743,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0233859,Boddington North,Boddington North,Operating,Worsley,116.407498,-32.812005,444533,6369399,50,Bx,Alumina,BAUXITE - ALUMINA,20221018
+S0000012,Baneygo,Baneygo,Operating,Duketon / Regis Resources,122.3125,-27.963344,432379,6906668,51,Au Ag,Precious metal,GOLD,20221018
+S0000030,Golden Crown,Beatons Creek - Golden Crown,Operating,Beatons Creek JV,120.101598,-21.870333,200460,7578701,51,Au Ag As Cu Bi Sb,Precious metal,GOLD,20221018
+S0000033,Big Bell UG,Big Bell Underground,Operating,Cue Gold - Central Murchison,117.655357,-27.318659,564838,6978099,50,Au Ag,Precious metal,GOLD,20221018
+S0000045,Aladdin,Aladdin Open Pit,Operating,Cue Gold - Central Murchison,118.347188,-26.86947,633823,7027311,50,Au Ag,Precious metal,GOLD,20221018
+S0000046,Bluebird,Bluebird - Bluebird South,Operating,Cue Gold - Central Murchison,118.425102,-26.716249,641754,7044200,50,Au Ag,Precious metal,GOLD,20221018
+S0000049,Five Mile Well,Five Mile Well,Operating,Cue Gold - Central Murchison,118.54088,-26.529259,653521,7064780,50,Au Ag,Precious metal,GOLD,20221018
+S0000053,Southern Stockworks,Boorara Open Pit - Southern Stockworks,Operating,Boorara / Horizon,121.644084,-30.809293,370293,6590747,51,Au Ag,Precious metal,GOLD,20221018
+S0000138,Cosmopolitan,Cosmopolitan Tailings,Operating,Kookynie / Nex Metals,121.4954,-29.337562,353922,6753675,51,Au,Precious metal,GOLD,20221018
+S0000181,Morrison,Morrison,Operating,Golden Mile / KCGM,121.508466,-30.789484,357289,6592777,51,Au Ag,Precious metal,GOLD,20221018
+S0000198,Yarlarweelor,Yarlarweelor North & South,Operating,Fortnum,118.360354,-25.343679,636897,7196301,50,Au Ag,Precious metal,GOLD,20221018
+S0000258,Goongarrie Lady,Goongarrie Lady,Operating,Goongarrie Lady,121.184481,-30.081354,325026,6670810,51,Au Ag,Precious metal,GOLD,20221018
+S0000263,Paris,Paris,Operating,GBF Paris ,121.975881,-31.588763,402835,6504690,51,Au Ag,Precious metal,GOLD,20221018
+S0000275,Hawkins Find,Hawkins Find,Operating,Hawkins Find,121.02196,-30.498387,310164,6624323,51,Au Ag,Precious metal,GOLD,20221018
+S0000350,Lord Byron SE,Lord Byron Southeast,Operating,Jasper Hills ,123.043943,-29.131214,504275,6777476,51,Au Ag,Precious metal,GOLD,20221018
+S0000357,Jupiter,Jupiter - Joanne - Doublejay,Operating,Mt Morgans,122.219287,-28.807189,423817,6813126,51,Au Ag,Precious metal,GOLD,20221018
+S0000379,Last Chance E,Last Chance East,Operating,Kanowna - Golden Valley,121.601997,-30.594219,365970,6614535,51,Au,Precious metal,GOLD,20221018
+S0000389,Harrys Hill,Harrys Hill,Operating,Aldiss - Karonie,122.558028,-31.045011,457826,6565326,51,Au Ag,Precious metal,GOLD,20221018
+S0000462,Lloyd George,Lloyd George - Gibraltar,Operating,Gibraltar South / Torian,120.967452,-31.04095,306024,6564085,51,Au Ag,Precious metal,GOLD,20221018
+S0000469,Star of Mangaroon,Star of Mangaroon,Operating,Mangaroon Gold,115.746101,-23.867599,372327,7359866,50,Au Pb Ag,Precious metal,GOLD,20221018
+S0000541,Mt Marven,Mt Marven,Operating,Mt Morgans,122.175598,-28.81282,419558,6812473,51,Au Ag,Precious metal,GOLD,20221018
+S0000566,Racetrack,Racetrack - Racetrack West,Operating,Paddington - Mt Pleasant,121.22703,-30.556282,329949,6618233,51,Au Ag,Precious metal,GOLD,20221018
+S0000590,Nevoria UG,Nevoria Underground,Operating,Marvel Loch - Southern Cross,119.588401,-31.507265,745825,6511275,50,Au Ag,Precious metal,GOLD,20221018
+S0000642,Enterprise,Enterprise Open Pit,Operating,Ora Banda / Norton,121.088414,-30.372122,316307,6638430,51,Au Ag,Precious metal,GOLD,20221018
+S0000671,Million Dollar North,Million Dollar North,Operating,Porphyry - Northern Operations,122.285975,-29.799054,430995,6703267,51,Au Ag,Precious metal,GOLD,20221018
+S0000675,Queen Lapage,Queen Lapage,Operating,Queen Lapage,121.979797,-30.61618,402215,6612490,51,Au Ag,Precious metal,GOLD,20221018
+S0000698,Missouri,Missouri,Operating,Davyhurst - Lady Ida - Mulline - Riverina - Siberia Gold,120.953665,-30.219187,303050,6655156,51,Au Ag,Precious metal,GOLD,20221018
+S0000709,Second Fortune,Second Fortune,Operating,Linden Gold,122.435819,-29.376506,445249,6750167,51,Au Ag,Precious metal,GOLD,20221018
+S0000726,Spargos Reward,Spargos Reward,Operating,Spargos Reward,121.47075,-31.236454,354362,6543185,51,Au Ag,Precious metal,GOLD,20221018
+S0000728,Jasper,Jasper - Aucklands,Operating,Gwalia - Leonora,121.243896,-28.75897,328546,6817454,51,Au Ag,Precious metal,GOLD,20221018
+S0000732,Main Dome,Telfer Main Dome,Operating,Telfer / Newcrest,122.207118,-21.719565,417996,7598002,51,Au Cu Ag,Precious metal,GOLD,20221018
+S0000769,Edna May UG,Edna May Underground,Operating,Edna May - Westonia,118.700154,-31.291771,661822,6536815,50,Au Ag Opalc,Precious metal,GOLD,20221018
+S0000770,Edna May,Edna May - Westonia,Operating,Edna May - Westonia,118.698538,-31.290258,661670,6536985,50,Au W Ag,Precious metal,GOLD,20221018
+S0000776,Bulletin,Bulletin - Wiluna,Operating,Matilda,120.246696,-26.61145,225834,7053646,51,Au Ag,Precious metal,GOLD,20221018
+S0000811,Anglo Saxon,Anglo Saxon - Trouser Legs,Operating,Anglo Saxon - Trouser Legs,122.731479,-30.076781,474122,6672676,51,Au Ag,Precious metal,GOLD,20221018
+S0000847,Great Victoria,Great Victoria - GVG,Operating,Marvel Loch - Southern Cross,119.5737,-31.544279,744331,6507203,50,Au Ag,Precious metal,GOLD,20221018
+S0000880,Mt Charlotte,Mt Charlotte,Operating,Golden Mile / KCGM,121.480904,-30.746441,354587,6597513,51,Au Ag,Precious metal,GOLD,20221018
+S0000909,Porphyry Pit,Porphyry Open Pit,Operating,Porphyry - Northern Operations,122.285004,-29.780899,430888,6705278,51,Au Ag,Precious metal,GOLD,20221018
+S0000927,Two Boys,Two Boys / Karora,Operating,Higginsville,121.724998,-31.74041,379227,6487630,51,Au Ag,Precious metal,GOLD,20221018
+S0000933,Bellevue UG,Bellevue Underground,Operating,Bellevue,120.557701,-27.638941,259030,6940410,51,Au Ag,Precious metal,GOLD,20221018
+S0001007,Wandoo S,Wandoo South,Operating,Boddington Gold,116.357519,-32.753078,439815,6375904,50,Au Cu As Bi Ag,Precious metal,GOLD,20221018
+S0001063,Mickey Doolan,Mickey Doolan,Operating,Cue Gold - Central Murchison,118.502775,-26.618099,649609,7054983,50,Au Ag,Precious metal,GOLD,20221018
+S0001145,Comet-Pinnacles UG,Comet - Pinnacles Underground,Operating,Cue Gold - Central Murchison,118.043602,-27.5401,603045,6953307,50,Au Ag,Precious metal,GOLD,20221018
+S0002194,Stellar,Stellar,Operating,Mt Magnet,117.782492,-28.048626,576903,6897164,50,Au Ag,Precious metal,GOLD,20221018
+S0002196,Bullant,Bullant - Ora Banda,Operating,Paddington - Mt Pleasant,121.0578,-30.52747,313660,6621160,51,Au Ag,Precious metal,GOLD,20221018
+S0002217,Golden Ridge,Golden Ridge,Operating,Golden Ridge,121.667345,-30.847844,372570,6586501,51,Au Ag,Precious metal,GOLD,20221018
+S0002232,Rothsay UG,Rothsay Underground,Operating,Rothsay,116.877078,-29.288679,488060,6760024,50,Au Ag,Precious metal,GOLD,20221018
+S0002247,Aquarius,Aquarius,Operating,Marvel Loch - Southern Cross,119.322009,-31.271359,721071,6537998,50,Au Ag,Precious metal,GOLD,20221018
+S0002289,Harbour Lights UG,Harbour Lights Underground,Operating,Gwalia - Leonora,121.321999,-28.87369,336352,6804851,51,Au Ag,Precious metal,GOLD,20221018
+S0002383,Sons of Gwalia UG,Sons of Gwalia Underground,Operating,Gwalia - Leonora,121.333474,-28.918421,337541,6799910,51,Au Ag,Precious metal,GOLD,20221018
+S0002384,Gault,Gault,Operating,Tampia,118.451698,-32.16235,636884,6440645,50,Au Ag,Precious metal,GOLD,20221018
+S0002386,Telfer UG,Telfer Underground,Operating,Telfer / Newcrest,122.202732,-21.722441,417544,7597682,51,Au Ag,Precious metal,GOLD,20221018
+S0002419,Zelica,Zelica,Operating,Zelica - Eucalyptus,122.174906,-29.216841,419803,6767708,51,Au Ag,Precious metal,GOLD,20221018
+S0002420,Fairplay N - NE,Fairplay North - Fairplay Northeast,Operating,Higginsville,121.72817,-31.746394,379535,6486970,51,Au Ag,Precious metal,GOLD,20221018
+S0002484,Vegas,Vegas - Galaxy,Operating,Mt Magnet,117.790979,-28.037313,577746,6898412,50,Au Ag,Precious metal,GOLD,20221018
+S0002485,Matilda 6,Matilda 6,Operating,Matilda,120.219902,-26.76825,223544,7036210,51,Au Ag,Precious metal,GOLD,20221018
+S0002535,Edwards,Edwards - Nullagine,Operating,Beatons Creek JV,120.098121,-21.868989,200097,7578843,51,Au Ag,Precious metal,GOLD,20221018
+S0002541,Golden Funnel,Golden Funnel,Operating,Paddington - Mt Pleasant,121.247079,-30.579425,331912,6615698,51,Au Ag,Precious metal,GOLD,20221018
+S0002621,Frasers Central Pit,Frasers Central Opencut,Operating,Marvel Loch - Southern Cross,119.330752,-31.239486,721978,6541514,50,Au Ag,Precious metal,GOLD,20221018
+S0002719,Matilda 4,Matilda 4 Iceberg - Scorchers - Sixers,Operating,Matilda,120.215342,-26.750194,223046,7038202,51,Au Ag,Precious metal,GOLD,20221018
+S0002815,Daisy-Milano,Daisy - Milano,Operating,Randalls - Mt Monger,121.921362,-31.013137,397038,6568443,51,Au Ag,Precious metal,GOLD,20221018
+S0002833,Mungari/Bereth,Mungari / Bereth,Operating,Coolgardie / Bereth,121.281998,-30.90346,335812,6579833,51,Au Ag,Precious metal,GOLD,20221018
+S0002855,Mulgarrie,Mulgarrie,Operating,Paddington - Mt Pleasant,121.515147,-30.383512,357335,6637782,51,Au Ag,Precious metal,GOLD,20221018
+S0002882,Penny West,Penny West,Under Development,Penny Gold,118.810428,-28.853896,676599,6806855,50,Au Ag,Precious metal,GOLD,20221018
+S0003056,Hampton UG,Hampton - Boulder Underground,Operating,South Kalgoorlie Operations,121.606576,-31.034576,367017,6565732,51,Au Ag,Precious metal,GOLD,20221018
+S0003098,Dolly Pot,Dolly Pot,Operating,Marda / Southern Cross,119.258698,-30.19759,717441,6657163,50,Au Ag,Precious metal,GOLD,20221018
+S0003101,Kanowna Belle,Kanowna Belle,Operating,Kanowna - Golden Valley,121.578007,-30.608995,363690,6612868,51,Au Ag,Precious metal,GOLD,20221018
+S0003173,Bullen - Mainfield,Bullen,Operating,Central Norseman,121.798698,-32.197948,386771,6436990,51,Au Ag,Precious metal,GOLD,20221018
+S0003201,Hannans N Tourist,Hannans North Tourist Mine,Operating,Hannans North Tourist Mine,121.470596,-30.72789,353573,6599555,51,Au Ag,Precious metal,GOLD,20221018
+S0003246,Genesis UG,Genesis Underground,Operating,Agnew - Emu,120.497002,-27.978439,253806,6902662,51,Au Ag,Precious metal,GOLD,20221018
+S0003253,Triton North UG,Triton North Underground,Operating,Cue Gold - Central Murchison,118.268303,-27.131821,625694,6998330,50,Au Ag,Precious metal,GOLD,20221018
+S0003254,South Emu UG,South Emu - Triton Underground,Operating,Cue Gold - Central Murchison,118.266899,-27.13797,625548,6997650,50,Au Ag,Precious metal,GOLD,20221018
+S0003258,Triton UG,Triton Underground,Operating,Cue Gold - Central Murchison,118.2677,-27.13336,625632,6998160,50,Au Ag,Precious metal,GOLD,20221018
+S0003362,Jasper Hill,Jasper Hill - Redcliffe,Operating,Gwalia - Leonora,121.223602,-28.757,326561,6817642,51,Au Ag,Precious metal,GOLD,20221018
+S0003391,Norton,Norton - Nevoria,Operating,Marvel Loch - Southern Cross,119.592796,-31.50873,746238,6511102,50,Au Ag,Precious metal,GOLD,20221018
+S0003392,Hidden Secret,Hidden Secret - Kalgoorlie,Operating,Golden Mile / KCGM,121.488098,-30.745911,355275,6597581,51,Au,Precious metal,GOLD,20221018
+S0003533,Nimary 3,Nimary Three,Operating,Jundee - Nimary,120.594002,-26.37397,259938,7080660,51,Au Ag,Precious metal,GOLD,20221018
+S0003696,Mousehollow,Mousehollow,Under Development,Higginsville,121.819011,-31.784391,388185,6482855,51,Au Ag,Precious metal,GOLD,20221018
+S0003738,Hill 60 UG,Hill 60 Underground,Operating,Mt Magnet,117.833877,-28.073274,581935,6894400,50,Au Ag,Precious metal,GOLD,20221018
+S0003744,Bulletin,Bulletin - Bamboo Creek,Operating,Bamboo Creek Gold,120.240997,-20.949409,213080,7680980,51,Au Ag,Precious metal,GOLD,20221018
+S0003756,Golden Pike,Golden Pike,Operating,Golden Mile / KCGM,121.502066,-30.776552,356657,6594202,51,Au Ag,Precious metal,GOLD,20221018
+S0003779,Happy Jack-Tirau,Happy Jack - Tirau Underground,Operating,Matilda,120.239403,-26.619221,225126,7052770,51,Au Ag,Precious metal,GOLD,20221018
+S0003806,Scotia S,Scotia South,Operating,Central Norseman,121.791702,-32.476181,386459,6406138,51,Au,Precious metal,GOLD,20221018
+S0003807,Scotia N,Scotia North,Operating,Central Norseman,121.792603,-32.470928,386538,6406721,51,Au Ag,Precious metal,GOLD,20221018
+S0003820,Tank,Tank,Operating,Aldiss - Karonie,122.559442,-31.071025,457972,6562443,51,Au Ag,Precious metal,GOLD,20221018
+S0003851,Rumbles,Rumbles Open Pit,Operating,Randalls - Mt Monger,122.188267,-31.068289,422561,6562547,51,Au Ag,Precious metal,GOLD,20221018
+S0003919,Great Western,Great Western / Red 5,Operating,Great Western,121.180492,-28.317054,321611,6866331,51,Au Ag,Precious metal,GOLD,20221018
+S0003942,Westralia UG,Westralia Deeps - Mt Morgans Underground,Operating,Mt Morgans,122.0679,-28.769622,409011,6817182,51,Au Ag,Precious metal,GOLD,20221018
+S0003946,Gordon-Sirdar,Gordon-Sirdar Openpit,Operating,Gordon - Sirdar,121.594498,-30.45035,365052,6630472,51,Au Ag,Precious metal,GOLD,20221018
+S0004141,Deflector,Deflector Central,Operating,Deflector,116.379426,-28.669106,439364,6828516,50,Au Cu Ag,Precious metal,GOLD,20221018
+S0004149,Salmon,Salmon - Salmon East and North,Operating,Plutonic Gold,119.545403,-25.299311,756284,7199475,50,Au Ag,Precious metal,GOLD,20221018
+S0004153,Million Dollar South,Million Dollar South,Operating,Porphyry - Northern Operations,122.285777,-29.804468,430979,6702667,51,Au Ag,Precious metal,GOLD,20221018
+S0004154,Kirkalocka,Curara Well - Kirkalocka,Operating,Kirkalocka,117.761538,-28.674935,574406,6827791,50,Au Ag,Precious metal,GOLD,20221018
+S0004221,Paddys Flat UG,Paddys Flat Underground,Operating,Cue Gold - Central Murchison,118.508598,-26.60535,650205,7056389,50,Au Ag,Precious metal,GOLD,20221018
+S0004297,Riverina Pit,Riverina Openpit,Operating,Davyhurst - Lady Ida - Mulline - Riverina - Siberia Gold,120.564972,-29.744602,264511,6707030,51,Au Ag,Precious metal,GOLD,20221018
+S0004301,Jaurdi,Jaurdi,Operating,Jaurdi - Cammi's Creek,120.925003,-30.688709,301247,6603059,51,Au Ag,Precious metal,GOLD,20221018
+S0004348,28 Pit,28 Pit - SBS28,Operating,South Kalgoorlie Operations,121.246201,-30.963989,332496,6573070,51,Au Ag,Precious metal,GOLD,20221018
+S0004460,Goldstream,Goldstream,Operating,Marda / Southern Cross,119.280587,-30.202968,719537,6656525,50,Au Ag,Precious metal,GOLD,20221018
+S0004462,Cobra,Cobra - Marda,Operating,Marda / Southern Cross,119.247803,-30.19342,716401,6657646,50,Au Ag,Precious metal,GOLD,20221018
+S0004468,King Brown,King Brown - Marda,Operating,Marda / Southern Cross,119.119377,-30.116279,704194,6666434,50,Au Ag,Precious metal,GOLD,20221018
+S0004505,Golden Delicious,Golden Delicious,Operating,Sunrise Dam,122.459342,-29.013648,447346,6790382,51,Au Ag,Precious metal,GOLD,20221018
+S0004551,Great Fingall Pit,Great Fingall Openpit,Operating,Cue Gold - Central Murchison,117.85805,-27.461048,584783,6962204,50,Au Ag,Precious metal,GOLD,20221018
+S0004791,Darlot UG,Darlot Underground,Operating,Darlot,121.268898,-27.887529,329603,6914052,51,Au Ag,Precious metal,GOLD,20221018
+S0004877,Santa,Santa,Operating,Randalls - Mt Monger,122.209736,-31.040615,424587,6565628,51,Au Ag,Precious metal,GOLD,20221018
+S0004886,Janet Ivy,Janet Ivy,Operating,Binduli,121.383328,-30.774467,345291,6594275,51,Au Ag,Precious metal,GOLD,20221018
+S0004927,Maid Marion,Maid Marion - Meekatharra North,Operating,Cue Gold - Central Murchison,118.5933,-26.46312,658836,7072043,50,Au Ag,Precious metal,GOLD,20221018
+S0004954,Moonbeam,Moonbeam,Operating,Kundana - White Flag,121.243797,-30.7213,331844,6599968,51,Au Ag,Precious metal,GOLD,20221018
+S0004988,Vivien,Vivien,Operating,Vivien,120.568522,-27.976476,260839,6903022,51,Au Ag,Precious metal,GOLD,20221018
+S0004991,Atriedes,Atriedes - Karonie,Operating,Aldiss - Karonie,122.559575,-31.065608,457983,6563043,51,Au Ag,Precious metal,GOLD,20221018
+S0005030,Maxwells,Maxwells,Operating,Randalls - Mt Monger,122.198932,-31.08101,423589,6561144,51,Au Ag,Precious metal,GOLD,20221018
+S0005063,Otto Bore,Otto Bore,Operating,Thunderbox Gold,121.015082,-28.111005,305016,6888909,51,Au Ag,Precious metal,GOLD,20221018
+S0005074,Cockeyed Bob Deeps,Cockeyed Bob Deeps,Operating,Randalls - Mt Monger,122.176786,-31.088521,421482,6560296,51,Au Ag,Precious metal,GOLD,20221018
+S0005156,King of the Hills,King of the Hills Underground,Operating,Tarmoola - King of the Hills,121.163002,-28.671459,320497,6827032,51,Au Ag,Precious metal,GOLD,20221018
+S0005315,Gilbeys,Gilbeys - Dalgaranga,Operating,Dalgaranga - Gilbeys,117.265226,-27.846241,526115,6919802,50,Au Ag,Precious metal,GOLD,20221018
+S0005365,Bungarra,Bungarra,Operating,North Laverton Gold,121.466839,-27.400148,348419,6968310,51,Au Ag,Precious metal,GOLD,20221018
+S0005388,Cutters Ridge Main,Cutters Ridge Main,Operating,Mungari / Evolution,121.182302,-30.771702,326045,6594286,51,Au Ag,Precious metal,GOLD,20221018
+S0005546,Zone 19,Plutonic Zone 19 and Zone 550 - Baltic,Operating,Plutonic Gold,119.442596,-25.293249,745941,7200340,50,Au Ag,Precious metal,GOLD,20221018
+S0005627,Panther,Panther,Operating,Jaurdi - Cammi's Creek,120.884697,-30.68709,297382,6603166,51,Au Ag,Precious metal,GOLD,20221018
+S0005786,White Foil,White Foil,Operating,Mungari / Evolution,121.250603,-30.773726,332586,6594167,51,Au Ag,Precious metal,GOLD,20221018
+S0005837,Golden Wings,Golden Wings,Operating,Dalgaranga - Gilbeys,117.295898,-27.821173,529141,6922572,50,Au Ag,Precious metal,GOLD,20221018
+S0005841,Centenary,Centenary - Oval,Operating,Darlot,121.285769,-27.886146,331261,6914229,51,Au Ag,Precious metal,GOLD,20221018
+S0005842,New Holland S UG,New Holland South Underground,Operating,Agnew - Emu,120.497378,-27.985018,253858,6901934,51,Au Ag,Precious metal,GOLD,20221018
+S0005907,Granny Venn,Granny Venn,Operating,East Menzies Gold,121.091797,-29.664061,315324,6716916,51,Au Ag,Precious metal,GOLD,20221018
+S0005909,Bulletin U/G,Bulletin Underground,Operating,Matilda,120.246696,-26.61145,225834,7053646,51,Au Ag,Precious metal,GOLD,20221018
+S0006416,Federal,Federal,Operating,Paddington - Mt Pleasant,121.4133,-30.412621,347593,6634423,51,Au Ag,Precious metal,GOLD,20221018
+S0006418,Lady Rosie,Lady Rosie,Operating,Cue Gold - Central Murchison,117.801355,-27.395183,579228,6969538,50,Au Ag,Precious metal,GOLD,20221018
+S0006435,Arctic Zone,Arctic Zone,Operating,Kundana - White Flag,121.220299,-30.693701,329545,6602991,51,Au,Precious metal,GOLD,20221018
+S0006486,Porphyry,Porphyry - Ora Banda,Operating,Paddington - Mt Pleasant,121.0233,-30.49255,310282,6624973,51,Au Ag,Precious metal,GOLD,20221018
+S0006504,Rosemont,Rosemont,Operating,Duketon / Regis Resources,122.27453,-27.838985,428563,6920423,51,Au Ag,Precious metal,GOLD,20221018
+S0006553,Klondyke,Klondyke,Operating,Warrawoona Gold / Calidus,119.892303,-21.33811,800006,7637675,50,Au Ag,Precious metal,GOLD,20221018
+S0006568,Jakarta,Jakarta,Operating,Paddington - Mt Pleasant,121.401912,-30.42485,346519,6633052,51,Au Ag,Precious metal,GOLD,20221018
+S0006569,Anchor-Zeta,Anchor - Zeta,Under Development,Duketon / Regis Resources,122.34753,-27.672218,435653,6938936,51,Au Ag,Precious metal,GOLD,20221018
+S0006570,Fort William,Fort William,Operating,Binduli,121.384102,-30.788719,345388,6592697,51,Au Ag,Precious metal,GOLD,20221018
+S0006621,Sunrise Dam Underground,Sunrise Dam Underground,Operating,Sunrise Dam,122.419353,-29.079405,443488,6783078,51,Au Ag As,Precious metal,GOLD,20221018
+S0006651,Zone 124,Plutonic Zone 124,Operating,Plutonic Gold,119.442299,-25.30196,745893,7199375,50,Au Ag,Precious metal,GOLD,20221018
+S0006652,Plutonic NW,Plutonic Northwest,Operating,Plutonic Gold,119.438004,-25.314529,745435,7197990,50,Au Ag,Precious metal,GOLD,20221018
+S0006668,The Mount,The Mount,Operating,The Mount,121.56947,-31.528304,364185,6510960,51,Au Ag,Precious metal,GOLD,20221018
+S0006687,Golden Orb,Golden Orb,Operating,Marda / Southern Cross,119.182297,-30.285641,709897,6647546,50,Au Ag,Precious metal,GOLD,20221018
+S0006727,Beta Hunt,Beta Hunt Surface Gold,Operating,Kambalda - St Ives,121.696799,-31.246434,375905,6542354,51,Au Ag,Precious metal,GOLD,20221018
+S0006746,Starlight UG,Starlight Underground,Operating,Fortnum,118.358498,-25.321899,636734,7198714,50,Au Ag,Precious metal,GOLD,20221018
+S0009463,Regal,Regal - Boorara,Operating,Boorara / Horizon,121.638346,-30.799029,369731,6591878,51,Au Ag,Precious metal,GOLD,20221018
+S0016736,Milky Way,Milky Way,Operating,Mt Magnet,117.788887,-28.053322,577528,6896640,50,Au Ag,Precious metal,GOLD,20221018
+S0017129,Pegasus,Pegasus - Kundana East,Operating,Kundana East,121.256852,-30.737972,333123,6598139,51,Au Ag,Precious metal,GOLD,20221018
+S0018747,Thunderbox Zone C,Thunderbox Zone C,Operating,Thunderbox Gold,121.007181,-28.190531,304385,6880084,51,Au Ag,Precious metal,GOLD,20221018
+S0018779,Bakers Flat - Tarranto,Bakers Flat - Tarranto,Operating,South Kalgoorlie Operations,121.268705,-30.969423,334655,6572501,51,Au Ag,Precious metal,GOLD,20221018
+S0018836,Fender,Fender,Operating,Cue Gold - Central Murchison,117.635399,-27.3442,562849,6975280,50,Au Ag,Precious metal,GOLD,20221018
+S0018909,Kailis,Kailis,Operating,Kailis,121.288398,-28.840312,333021,6808503,51,Au Ag,Precious metal,GOLD,20221018
+S0019084,Waroonga Underground,Waroonga Underground,Operating,Agnew - Emu,120.505798,-28.004499,254730,6899792,51,Au Ag,Precious metal,GOLD,20221018
+S0019420,Deep South,Deep South - South Laverton Pit,Operating,Deep South - Safari Bore,122.54842,-29.546148,456249,6731418,51,Au Ag,Precious metal,GOLD,20221018
+S0019514,Barton Main Westside,Barton Main - Westside,Operating,Jundee - Nimary,120.604103,-26.372549,260943,7080837,51,Au Ag,Precious metal,GOLD,20221018
+S0019534,Williamson Pit,Williamson Pit,Operating,Matilda,120.317987,-26.773502,233314,7035838,51,Au Ag,Precious metal,GOLD,20221018
+S0019550,Shannon,Shannon,Operating,Mt Magnet,117.78341,-28.060205,576985,6895881,50,Au Ag,Precious metal,GOLD,20221018
+S0019619,Rowdies,Rowdies,Operating,Halls Creek - Lamboo Gold,127.353958,-18.419041,326143,7962663,52,Au Ag,Precious metal,GOLD,20221018
+S0019624,Plutonic East,Plutonic East,Operating,Plutonic Gold,119.446404,-25.306709,746297,7198841,50,Au Ag,Precious metal,GOLD,20221018
+S0019642,Tarmoola N,Tarmoola North,Operating,Tarmoola - King of the Hills,121.166066,-28.663856,320783,6827879,51,Au Ag,Precious metal,GOLD,20221018
+S0019675,Greenfinch,Greenfinch - Westonia,Operating,Edna May - Westonia,118.689849,-31.288291,660847,6537215,50,Au Ag,Precious metal,GOLD,20221018
+S0019710,Raleigh-Golden Hind U/G,Raleigh Underground,Operating,Kundana East,121.243599,-30.72757,331836,6599272,51,Au Ag,Precious metal,GOLD,20221018
+S0019779,Invicta,Invicta - Deakin,Operating,Jundee - Nimary,120.5886,-26.3615,259373,7082032,51,Au Ag,Precious metal,GOLD,20221018
+S0019961,City of Chester,City of Chester Main,Operating,Cue Gold - Central Murchison,117.7938,-27.335859,578523,6976115,50,Au Ag,Precious metal,GOLD,20221018
+S0020116,Homestead,Homestead - Mt Pleasant,Operating,Paddington - Mt Pleasant,121.230797,-30.541241,330284,6619906,51,Au Ag,Precious metal,GOLD,20221018
+S0020197,Tropicana,Tropicana,Operating,Tropicana,124.553902,-29.24608,651000,6763750,51,Au Ag,Precious metal,GOLD,20221018
+S0020380,UG Portal,Wallaby Underground,Operating,Granny Smith,122.305117,-28.852143,432221,6808197,51,Au Ag,Precious metal,GOLD,20221018
+S0020417,Anchor N,Anchor North,Operating,Duketon / Regis Resources,122.348159,-27.665145,435711,6939720,51,Au Ag,Precious metal,GOLD,20221018
+S0020968,Battler,Battler,Operating,Battler / IMD,119.389597,-31.34636,727327,6529545,50,Au Ag,Precious metal,GOLD,20221018
+S0021008,Trident,Trident - Higginsville,Operating,Higginsville,121.7313,-31.72505,379804,6489340,51,Au Ag,Precious metal,GOLD,20221018
+S0021532,Golden Age UG,Golden Age Underground,Operating,Matilda,120.246696,-26.620331,225855,7052663,51,Au Ag,Precious metal,GOLD,20221018
+S0021542,Fimiston Superpit,Fimiston Superpit,Operating,Golden Mile / KCGM,121.50352,-30.777971,356799,6594047,51,Au Ag,Precious metal,GOLD,20221018
+S0021718,Main Portal,Marvel Loch Underground,Operating,Marvel Loch - Southern Cross,119.492599,-31.464569,736831,6516220,50,Au Ag,Precious metal,GOLD,20221018
+S0021723,Scotia Central,Scotia Central,Operating,Central Norseman,121.791496,-32.47422,386438,6406355,51,Au,Precious metal,GOLD,20221018
+S0021837,Rose Dam South,Rose Dam South,Operating,Rose Dam,121.27655,-30.520962,334640,6622222,51,Au Ag,Precious metal,GOLD,20221018
+S0022447,Dogbolter,Dogbolter North and South,Operating,Duketon / Regis Resources,122.342667,-27.724042,435205,6933193,51,Au Ag,Precious metal,GOLD,20221018
+S0022458,Vause Laterite,Vause Laterite,Operating,Jundee - Nimary,120.816002,-26.61158,282543,7054728,51,Au Ag,Precious metal,GOLD,20221018
+S0022539,Aquarius - Corona,Aquarius - Higginsville,Under Development,Higginsville,121.728206,-31.755167,379549,6485998,51,Au,Precious metal,GOLD,20221018
+S0022743,Havana,Havana,Operating,Tropicana,124.5401,-29.263359,649633,6761853,51,Au Ag,Precious metal,GOLD,20221018
+S0022929,Wagtail North,Wagtail North,Operating,Halls Creek - Lamboo Gold,127.353798,-18.421173,326128,7962427,52,Au Ag,Precious metal,GOLD,20221018
+S0022974,Julius,Julius - Yandal,Operating,Jundee - Nimary,120.948631,-26.763126,296022,7038155,51,Au Ag,Precious metal,GOLD,20221018
+S0023166,Wandoo N,Wandoo North,Operating,Boddington Gold,116.3419,-32.741345,438344,6377195,50,Au Cu As Bi,Precious metal,GOLD,20221018
+S0023206,Frogs Leg UG,Frogs Leg Underground,Operating,Mungari / Evolution,121.270103,-30.76158,334432,6595542,51,Au Ag,Precious metal,GOLD,20221018
+S0029437,Rosemont North,Rosemont North,Operating,Duketon / Regis Resources,122.268224,-27.831212,427937,6921280,51,Au Ag,Precious metal,GOLD,20221018
+S0032945,South Victory N2,South Victory North 2,Operating,Cue Gold - Central Murchison,117.801533,-27.403089,579240,6968662,50,Au,Precious metal,GOLD,20221018
+S0223012,Petra,Petra,Operating,Duketon / Regis Resources,122.257176,-27.686151,426752,6937343,51,Au Ag,Precious metal,GOLD,20221018
+S0223250,Fort Scott,Fort Scott,Operating,Binduli,121.378412,-30.781147,344831,6593528,51,Au Ag,Precious metal,GOLD,20221018
+S0223445,Portal,Rubicon-Hornet Underground Portal,Operating,Kundana East,121.260602,-30.744035,333492,6597473,51,Au Ag,Precious metal,GOLD,20221018
+S0223550,Water Tank Hill UG,Water Tank Hill Underground,Operating,Mt Magnet,117.829995,-28.064741,581560,6895348,50,Au Ag,Precious metal,GOLD,20221018
+S0223594,Cave Rocks UG,Cave Rocks Underground,Operating,Kambalda - St Ives,121.557715,-31.209795,362606,6546251,51,Au Ag,Precious metal,GOLD,20221018
+S0223927,Hamlet UG,Hamlet Underground / St Ives,Operating,Kambalda - St Ives,121.812162,-31.400095,387074,6525446,51,Au Ag,Precious metal,GOLD,20221018
+S0224078,Pertha May,Pertha May,Operating,Pertha M,118.65181,-31.275179,657247,6538724,50,Au Ag,Precious metal,GOLD,20221018
+S0224327,Maingays,Maingays,Operating,Porphyry - Northern Operations,122.281933,-29.783519,430593,6704986,51,Au Ag,Precious metal,GOLD,20221018
+S0224334,Red October UG,Red October Underground,Operating,Red October,122.413546,-29.217297,442999,6767797,51,Au Ag,Precious metal,GOLD,20221018
+S0224441,Bibra,Bibra,Operating,Karlawinda Gold,120.095889,-23.765145,204000,7368750,51,Au Ag,Precious metal,GOLD,20221018
+S0224513,Garden Well,Garden Well,Operating,Duketon / Regis Resources,122.356001,-27.906395,436625,6913000,51,Au Ag,Precious metal,GOLD,20221018
+S0224676,Navajo-Chief,Navajo-Chief,Operating,Binduli,121.39119,-30.823813,346122,6588817,51,Au Ag,Precious metal,GOLD,20221018
+S0224716,Moonlight 58,Moonlight 58,Operating,Kanowna - Golden Valley,121.608591,-30.582426,366586,6615850,51,Au,Precious metal,GOLD,20221018
+S0224999,Tooheys Well,Tooheys Well,Operating,Duketon / Regis Resources,122.368122,-27.939959,437837,6909288,51,Au Ag,Precious metal,GOLD,20221018
+S0225139,Fender 700,Fender 700,Operating,Cue Gold - Central Murchison,117.639568,-27.34181,563262,6975543,50,Au Ag,Precious metal,GOLD,20221018
+S0225180,Central Laterite,Moolart Well - Central Laterite,Operating,Duketon / Regis Resources,122.346292,-27.602195,435490,6946693,51,Au Ag,Precious metal,GOLD,20221018
+S0225287,Gateway Portal,Gateway Portal,Operating,Jundee - Nimary,120.589064,-26.381404,259460,7079827,51,Au Ag,Precious metal,GOLD,20221018
+S0225288,Gateway Underground,Gateway Underground,Operating,Jundee - Nimary,120.593467,-26.385807,259909,7079348,51,Au Ag,Precious metal,GOLD,20221018
+S0226006,Jims Find,Jims Find,Operating,Cue Gold - Central Murchison,117.804395,-27.330649,579575,6976685,50,Au Ag,Precious metal,GOLD,20221018
+S0226035,Lord Byron NW,Lord Byron Northwest,Operating,Jasper Hills ,123.041614,-29.128452,504048,6777782,51,Au Ag,Precious metal,GOLD,20221018
+S0226036,Battery Sands,Cue Victory Battery Sands,Operating,Cue Victory / Cue Consolidated,117.911778,-27.410786,590133,6967735,50,Au Ag,Precious metal,GOLD,20221018
+S0226063,Fatts,Fatts,Under Development,Cue Gold - Central Murchison,118.506607,-26.610688,650000,7055800,50,Au Ag,Precious metal,GOLD,20221018
+S0226096,Havana South,Havana South,Operating,Tropicana,124.53612,-29.271361,649235,6760971,51,Au Ag,Precious metal,GOLD,20221018
+S0229604,Cammi's Creek,Cammi's Creek,Operating,Jaurdi - Cammi's Creek,120.939387,-30.730699,302710,6598429,51,Au Ag,Precious metal,GOLD,20221018
+S0229858,West Dome Main,Telfer West Dome Main,Operating,Telfer / Newcrest,122.185071,-21.720134,415716,7597928,51,Au,Precious metal,GOLD,20221018
+S0230026,Enterprise West,Enterprise West - Paddington,Operating,Ora Banda / Norton,121.079836,-30.374883,315488,6638110,51,Au Ag,Precious metal,GOLD,20221018
+S0230607,Neptune,Neptune / St Ives,Operating,Kambalda - St Ives,121.74552,-31.300017,380612,6536469,51,Au Ag,Precious metal,GOLD,20221018
+S0230898,Gruyere,Gruyere,Operating,Yamarna - Gruyere JV,123.845213,-27.98443,583117,6904235,51,Au Ag,Precious metal,GOLD,20221018
+S0230957,Crown Jewel - Boorara,Crown Jewel - Boorara,Operating,Boorara / Horizon,121.641914,-30.80386,370078,6591346,51,Au Ag,Precious metal,GOLD,20221018
+S0231429,Invincible - St Ives,Invincible - St Ives,Operating,Kambalda - St Ives,121.670718,-31.279914,373466,6538614,51,Au Ag,Precious metal,GOLD,20221018
+S0231590,Vivien UG,Vivien Underground,Operating,Vivien,120.568526,-27.976825,260840,6902983,51,Au Ag,Precious metal,GOLD,20221018
+S0231666,Salisbury,Salisbury,Operating,Cue Victory / Cue Consolidated,117.902972,-27.396782,589274,6969293,50,Au Ag,Precious metal,GOLD,20221018
+S0231766,Karari UG,Karari Underground Main and Exploration Declines,Operating,Carosue Dam - Khartoum,122.359234,-30.159173,438298,6663403,51,Au Ag,Precious metal,GOLD,20221018
+S0232049,Heffernans Syenite,Heffernans Syenite,Operating,Mt Morgans,122.218123,-28.816154,423710,6812132,51,Au Ag,Precious metal,GOLD,20221018
+S0232079,Nicolsons Find U/G,Nicolsons Find Underground,Operating,Halls Creek - Lamboo Gold,127.356959,-18.409426,326450,7963730,52,Au Ag,Precious metal,GOLD,20221018
+S0232136,Millennium,Millennium,Operating,Kundana - White Flag,121.237813,-30.707879,331247,6601446,51,Au Ag,Precious metal,GOLD,20221018
+S0232283,Baloo,Baloo,Operating,Polar Bear Gold,121.866932,-31.801927,392743,6480960,51,Au Ag,Precious metal,GOLD,20221018
+S0232453,Whirling Dervish UG,Whirling Dervish Underground,Operating,Carosue Dam - Khartoum,122.357732,-30.141997,438142,6665306,51,Au Ag,Precious metal,GOLD,20221018
+S0232461,Deep South UG,Deep South - South Laverton Underground,Operating,Deep South - Safari Bore,122.548563,-29.54581,456263,6731456,51,Au Ag,Precious metal,GOLD,20221018
+S0232679,Corinthia Decline,Corinthia Decline / Corinthian,Operating,Corinthia / Corinthian Mining,119.219675,-31.12141,711660,6554823,50,Au Ag,Precious metal,GOLD,20221018
+S0232751,Gilbeys South,Gilbeys South,Operating,Dalgaranga - Gilbeys,117.25727,-27.852407,525330,6919120,50,Au Ag,Precious metal,GOLD,20221018
+S0233202,Coopers,Coopers,Operating,Duketon / Regis Resources,122.340468,-27.712101,434980,6934514,51,Au Ag,Precious metal,GOLD,20221018
+S0233583,Tuart Underground,Tuart Underground Mine,Operating,Paddington - Mt Pleasant,121.224418,-30.527591,329649,6621410,51,Au Ag,Precious metal,GOLD,20221018
+S0233701,Gloster,Gloster,Operating,Duketon / Regis Resources,122.074906,-27.564545,408677,6950693,51,Au Ag,Precious metal,GOLD,20221018
+S0233751,King of the Hills,King of the Hills,Operating,Tarmoola - King of the Hills,121.165902,-28.663594,320767,6827908,51,Au Ag,Precious metal,GOLD,20221018
+S0233804,Plutonic Underground,Plutonic Underground,Operating,Plutonic Gold,119.446427,-25.318215,746276,7197567,50,Au Ag,Precious metal,GOLD,20221018
+S0233932,Tampia North,Tampia North,Operating,Tampia,118.451651,-32.161676,636881,6440720,50,Au Ag,Precious metal,GOLD,20221018
+S0234014,Erlistoun,Erlistoun,Operating,Duketon / Regis Resources,122.338032,-27.972801,434896,6905634,51,Au Ag,Precious metal,GOLD,20221018
+S0234177,Delta Island South,Delta Island South,Operating,Kambalda - St Ives,121.722933,-31.293577,378454,6537158,51,Au Ag,Precious metal,GOLD,20221018
+S0234229,Geko,Geko,Operating,Bullabulling North,120.901846,-30.862375,299389,6583765,51,Au Ag,Precious metal,GOLD,20221018
+S0234331,Beta Hunt,Beta Hunt Underground Gold,Operating,Kambalda Gold / RNC,121.689942,-31.242538,375247,6542778,51,Au Ag Ni,Precious metal,GOLD,20221018
+S0234349,Ganymede,Ganymede,Operating,Mt Morgans,122.215226,-28.819435,423429,6811766,51,Au Ag,Precious metal,GOLD,20221018
+S0234463,Invincible North,Invincible North,Under Development,Kambalda - St Ives,121.662842,-31.27261,372706,6539414,51,Au Ag,Precious metal,GOLD,20221018
+S0234466,Invincible UG,Invincible Underground,Operating,Kambalda - St Ives,121.673399,-31.283042,373725,6538270,51,Au Ag,Precious metal,GOLD,20221018
+S0234476,Deflector UG,Deflector Underground,Operating,Deflector,116.379441,-28.668992,439365,6828529,50,Au Cu Ag,Precious metal,GOLD,20221018
+S0234492,Coventry,Coventry,Operating,Cue Gold - Central Murchison,117.801546,-27.33786,579288,6975888,50,Au Ag,Precious metal,GOLD,20221018
+S0234538,Porphyry West 1,Porphyry West 1,Operating,Paddington - Mt Pleasant,121.017796,-30.491992,309753,6625026,51,Au Ag,Precious metal,GOLD,20221018
+S0234796,Grants Hill,Grants Hill,Operating,Beatons Creek JV,120.095102,-21.87955,199808,7577667,51,Au Ag,Precious metal,GOLD,20221018
+S0234904,Lost Dog,Lost Dog,Operating,Jaurdi - Cammi's Creek,120.949716,-30.730951,303699,6598419,51,Au Ag,Precious metal,GOLD,20221018
+S0234948,Sly Fox,Sly Fox,Operating,Dalgaranga - Gilbeys,117.264955,-27.85419,526086,6918921,50,Au Ag,Precious metal,GOLD,20221018
+S0236189,Thunderbox UG,Thunderbox Underground,Operating,Thunderbox Gold,121.007285,-28.196004,304404,6879477,51,Au Ag,Precious metal,GOLD,20221018
+S0236326,Wagtail North UG,Wagtail North Underground,Operating,Halls Creek - Lamboo Gold,127.353669,-18.421151,326114,7962429,52,Au Ag,Precious metal,GOLD,20221018
+S0236327,Wagtail South UG,Wagtail South Underground,Operating,Halls Creek - Lamboo Gold,127.353562,-18.424727,326106,7962033,52,Au Ag,Precious metal,GOLD,20221018
+S0236361,Ramone,Ramone,Operating,Jundee - Nimary,120.846986,-26.559088,285530,7060595,51,Au Ag,Precious metal,GOLD,20221018
+S0236468,Karonie Main Zone South,Karonie Main Zone South,Operating,Aldiss - Karonie,122.560074,-31.03926,458018,6565964,51,Au Ag,Precious metal,GOLD,20221018
+S0236571,Plymouth,Plymouth / Gascoyne,Operating,Dalgaranga - Gilbeys,117.263648,-27.854278,525957,6918911,50,Au Ag,Precious metal,GOLD,20221018
+S0236611,Main Lode,Main Lode / Barra,Operating,Burbanks / REG,121.139859,-31.024487,322450,6566198,51,Au Ag,Precious metal,GOLD,20221018
+S0236617,Havieron UG,Havieron Underground,Under Development,Paterson / Greatland Gold,122.640666,-21.727817,462838,7597256,51,Au Cu Ag,Precious metal,GOLD,20221018
+S0236893,Rosemont UG,Rosemont Underground,Operating,Duketon / Regis Resources,122.278097,-27.843181,428917,6919959,51,Au Ag,Precious metal,GOLD,20221018
+S0237036,Eridanus,Eridanus,Operating,Mt Magnet,117.781675,-28.074885,576804,6894255,50,Au Ag,Precious metal,GOLD,20221018
+S0237038,Shannon UG,Shannon Underground,Operating,Mt Magnet,117.78326,-28.060424,576970,6895856,50,Au Ag,Precious metal,GOLD,20221018
+S0237074,Boston Shaker UG,Boston Shaker Underground,Operating,Tropicana,124.563896,-29.242173,651976,6764169,51,Au Ag,Precious metal,GOLD,20221018
+S0237119,Doublejay,Doublejay,Operating,Mt Morgans,122.219195,-28.810941,423810,6812710,51,Au Ag,Precious metal,GOLD,20221018
+S0237291,Myhree,Myhree / Black Cat,Under Development,New Bulong - Boundary - Kal East Gold Project,121.775308,-30.729096,382750,6599780,51,Au Ag,Precious metal,GOLD,20221018
+S0237465,Penny North UG,Penny North Underground,Under Development,Penny Gold,118.810248,-28.853327,676582,6806917,50,Au Ag,Precious metal,GOLD,20221018
+S0237487,Thunderbox Zone D,Thunderbox Zone D,Operating,Thunderbox Gold,121.004813,-28.183943,304140,6880810,51,Au Ag,Precious metal,GOLD,20221018
+S0237869,Bluebird UG,Bluebird Underground (South Junction),Operating,Cue Gold - Central Murchison,118.423432,-26.722373,641579,7043522,50,Au Ag,Precious metal,GOLD,20221018
+S0238307,Hidden Secret,Hidden Secret,Operating,Higginsville,121.814893,-31.779801,387790,6483360,51,Au Ag,Precious metal,GOLD,20221018
+S0238425,Orion,Orion,Operating,Mt Magnet,117.789952,-28.071729,577620,6894600,50,Au Ag,Precious metal,GOLD,20221018
+S0238603,Victoria,Victoria,Operating,Marvel Loch - Southern Cross,119.416703,-31.345262,729909,6529610,50,Au Ag,Precious metal,GOLD,20221018
+S0238745,Green Lantern,Green Lantern,Operating,Central Norseman,121.79622,-32.479727,386889,6405750,51,Au Ag,Precious metal,GOLD,20221018
+S0238995,Moonbeam Underground,Moonbeam Underground,Under Development,Kundana - White Flag,121.244269,-30.721499,331889,6599946,51,Au Ag,Precious metal,GOLD,20221018
+S0239162,Garden Well UG,Garden Well Underground,Under Development,Duketon / Regis Resources,122.356602,-27.905699,436683,6913077,51,Au Ag,Precious metal,GOLD,20221018
+S0239197,Ramone UG,Ramone Underground,Operating,Jundee - Nimary,120.847225,-26.55961,285555,7060538,51,Au Ag,Precious metal,GOLD,20221018
+S0239212,Karen Louise,Karen Louise,Operating,Binduli,121.374508,-30.773674,344445,6594351,51,Au Ag,Precious metal,GOLD,20221018
+S0239470,Fender UG,Fender Underground,Operating,Cue Gold - Central Murchison,117.63454,-27.344488,562763,6975248,50,Au Ag,Precious metal,GOLD,20221018
+S0239485,Swagman,Swagman / Karora,Operating,Higginsville,121.723065,-31.741825,379045,6487471,51,Au Ag,Precious metal,GOLD,20221018
+S0240700,System Test Site,System Test Site,Operating,System Test Project,127.430253,-26.564876,343650,7060799,52,Au,Precious metal,GOLD,20221018
+S0001172,George Palmer,George Palmer Pit,Operating,Sino - Cape Preston Iron,116.141296,-21.081341,410801,7668609,50,Fe Mag Fe2O3,Iron,IRON ORE,20221018
+S0001224,Deepdale J,"Deepdale Mesa J Pits 1-12, J Extended",Operating,Robe River - Deepdale,116.247354,-21.751437,422175,7594496,50,Fe,Iron,IRON ORE,20221018
+S0001331,Koolyanobbing K,Koolyanobbing K,Operating,Koolyanobbing Iron,119.5186,-30.797041,740985,6590177,50,Fe FeSpec OrnStone,Iron,IRON ORE,20221018
+S0001346,Wheelarra 4,Wheelarra 4,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.1371,-23.380329,207350,7411473,51,Fe,Iron,IRON ORE,20221018
+S0001385,Tom Price,Tom Price Main and Remnants,Operating,Tom Price / Rio Tinto,117.776095,-22.769347,579672,7481804,50,Fe,Iron,IRON ORE,20221018
+S0001388,Turner Syncline Sec 10,Turner Syncline Section 10,Operating,Turner Syncline West,117.586304,-22.66221,560234,7493753,50,Fe,Iron,IRON ORE,20221018
+S0001399,Nammuldi,Nammuldi Lens C,Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.337502,-22.412291,534735,7521498,50,Fe,Iron,IRON ORE,20221018
+S0001402,Mt Whaleback,Mt Whaleback,Operating,Newman / BHPB,119.6754,-23.36536,773504,7413500,50,Fe,Iron,IRON ORE,20221018
+S0001405,OB 29,Mt Newman Orebody 29,Operating,Newman / BHPB,119.703796,-23.382259,776373,7411573,50,Fe,Iron,IRON ORE,20221018
+S0001413,18E,Paraburdoo 18 East,Operating,Paraburdoo / Rio Tinto,117.631302,-23.25565,564575,7428038,50,Fe,Iron,IRON ORE,20221018
+S0001455,Silvergrass Pit 4,Silvergrass Pit 4,Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.303539,-22.317757,531261,7531970,50,Fe,Iron,IRON ORE,20221018
+S0001471,HD1 SC,Hope Downs 1 South Central,Operating,Hope Downs Joint Venture,119.107344,-22.99867,716000,7455075,50,Fe,Iron,IRON ORE,20221018
+S0001534,23E,Paraburdoo 23 East,Operating,Paraburdoo / Rio Tinto,117.653999,-23.24884,566900,7428782,50,Fe,Iron,IRON ORE,20221018
+S0001587,Pit 3 - Central,Brockman 4 - Pit 3 Central,Operating,Brockman 4 Area / Rio Tinto,117.21332,-22.598789,521925,7500877,50,Fe,Iron,IRON ORE,20221018
+S0001590,84E,Paraburdoo 84 East (Pits 1-5),Operating,Channar,117.8228,-23.302509,584134,7422752,50,Fe,Iron,IRON ORE,20221018
+S0001592,Mesa A,Deepdale Mesa A Pits 1-8,Operating,Robe River - Deepdale,115.886497,-21.672581,384796,7602999,50,Fe,Iron,IRON ORE,20221018
+S0001597,Coondiner HD4 East,Coondiner HD4 East,Operating,Hope Downs Joint Venture,119.574358,-23.145752,763602,7438017,50,Fe,Iron,IRON ORE,20221018
+S0001607,MAC C West,MAC - Deposit C West Pit,Operating,Mining Area C,118.962601,-22.92985,701261,7462902,50,Fe,Iron,IRON ORE,20221018
+S0001608,MAC D,MAC - Deposit D,Operating,Mining Area C,118.9432,-22.933431,699266,7462532,50,Fe,Iron,IRON ORE,20221018
+S0001609,MAC E East,MAC - Deposit E East Pit,Operating,Mining Area C,118.927299,-22.932541,697636,7462652,50,Fe,Iron,IRON ORE,20221018
+S0001610,MAC F,MAC - Deposit F,Operating,Mining Area C,118.875742,-22.941724,692335,7461704,50,Fe,Iron,IRON ORE,20221018
+S0001624,South Flank,MAC - South Flank,Operating,Mining Area C,118.923302,-22.998671,697130,7455334,50,Fe,Iron,IRON ORE,20221018
+S0001632,OB 25 - Pit 3,Mt Newman Orebody 25 - Pit 3,Operating,Newman / BHPB,119.818298,-23.32995,788197,7417145,50,Fe,Iron,IRON ORE,20221018
+S0001634,OB 18 Main,Mt Newman Orebody 18 Main - Shovelanna Hill,Operating,Newman / BHPB,120.04202,-23.333315,197518,7416487,51,Fe,Iron,IRON ORE,20221018
+S0001639,OB 24 E,Mt Newman Orebody 24 East,Operating,Newman / BHPB,119.810799,-23.304199,787485,7420013,50,Fe,Iron,IRON ORE,20221018
+S0001642,OB 30,Mt Newman Orebody 30,Operating,Newman / BHPB,119.662327,-23.377239,772143,7412209,50,Fe,Iron,IRON ORE,20221018
+S0001643,OB 35,Mt Newman Orebody 35,Operating,Newman / BHPB,119.657303,-23.38965,771603,7410843,50,Fe,Iron,IRON ORE,20221018
+S0001646,64E,Paraburdoo 64 East,Operating,Channar,117.774498,-23.30332,579194,7422690,50,Fe,Iron,IRON ORE,20221018
+S0002912,P3,Packsaddle Range P3,Operating,Mining Area C,118.960528,-22.905626,701085,7465588,50,Fe,Iron,IRON ORE,20221018
+S0002952,94E,Paraburdoo 94 East,Operating,Channar,117.848297,-23.305981,586739,7422353,50,Fe,Iron,IRON ORE,20221018
+S0002957,11W,Paraburdoo 11 West,Operating,Paraburdoo / Rio Tinto,117.561302,-23.22591,557427,7431360,50,Fe,Iron,IRON ORE,20221018
+S0002960,Gudai-Darri K58,Gudai-Darri K58,Operating,Gudai-Darri,119.038123,-22.53376,709611,7506662,50,Fe,Iron,IRON ORE,20221018
+S0002964,B1 Main,Turner Syncline B1 Main,Operating,Turner Syncline West,117.462898,-22.679331,547550,7491903,50,Fe,Iron,IRON ORE,20221018
+S0002984,Billiard,Billiard - Billiard South,Under Development,Yandicoogina / HI-Yandi,119.299568,-22.809575,736037,7475723,50,Fe,Iron,IRON ORE,20221018
+S0002995,Wheelarra 2,Wheelarra 2,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.086534,-23.371527,202158,7412346,51,Fe,Iron,IRON ORE,20221018
+S0002996,SJ-C1a-b,South Jimblebar - Central 1a-b,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.118294,-23.39572,205461,7409730,51,Fe,Iron,IRON ORE,20221018
+S0002997,Wheelarra 3 Scree,Wheelarra 3 Scree,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.116096,-23.380619,205202,7411398,51,Fe,Iron,IRON ORE,20221018
+S0002998,Wheelarra 1,Wheelarra 1,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.083105,-23.378769,201824,7411536,51,Fe,Iron,IRON ORE,20221018
+S0003023,Marillana Ck E2,Marillana Creek Eastern Mesa 2,Operating,Marillana Creek - Yandi / BHPB,119.113602,-22.74144,717050,7483554,50,Fe,Iron,IRON ORE,20221018
+S0003024,OB 24 Far W,Mt Newman Orebody 24 Far West,Operating,Newman / BHPB,119.758003,-23.29225,782107,7421441,50,Fe,Iron,IRON ORE,20221018
+S0003025,OB 24 W,Mt Newman Orebody 24 West,Operating,Newman / BHPB,119.773598,-23.2953,783697,7421072,50,Fe,Iron,IRON ORE,20221018
+S0003026,OB 24 Int,Mt Newman Orebody 24 Intermediate,Operating,Newman / BHPB,119.792397,-23.300051,785610,7420509,50,Fe,Iron,IRON ORE,20221018
+S0003027,OB 24 Far E,Mt Newman Orebody 24 Far East,Operating,Newman / BHPB,119.825798,-23.305309,789017,7419860,50,Fe,Iron,IRON ORE,20221018
+S0003235,5 West,Paraburdoo 5 West,Operating,Paraburdoo / Rio Tinto,117.576028,-23.218031,558938,7432227,50,Fe,Iron,IRON ORE,20221018
+S0003277,Mungada W,Mungada West - Blue Hills,Operating,Koolanooka & Blue Hills - Mungada / Sinosteel,116.862556,-29.141272,486631,6776355,50,Fe Mag,Iron,IRON ORE,20221018
+S0003278,Mungada E,Mungada East - Blue Hills,Operating,Koolanooka & Blue Hills - Mungada / Sinosteel,116.883314,-29.142147,488650,6776260,50,Fe,Iron,IRON ORE,20221018
+S0003291,Warramboo,Warramboo - Mesa A,Operating,Robe River - Deepdale,115.830597,-21.66316,379004,7603999,50,Fe,Iron,IRON ORE,20221018
+S0003324,Marillana Ck Central 5,Marillana Creek Central Mesa 5,Operating,Marillana Creek - Yandi / BHPB,119.100601,-22.724819,715740,7485413,50,Fe,Iron,IRON ORE,20221018
+S0003719,Deposit B,West Angelas Deposit B,Operating,West Angelas,118.767575,-23.118524,681005,7442263,50,Fe,Iron,IRON ORE,20221018
+S0003722,Deposit E,West Angelas Deposit E,Operating,West Angelas,118.789979,-23.198053,683192,7433428,50,Fe,Iron,IRON ORE,20221018
+S0005001,Marillana Ck Central 1,Marillana Creek Central Mesa 1,Operating,Marillana Creek - Yandi / BHPB,119.065498,-22.718639,712144,7486149,50,Fe,Iron,IRON ORE,20221018
+S0006420,HD1 Flat Top,Hope Downs 1 Flat Top,Operating,Hope Downs Joint Venture,119.117964,-22.959206,717152,7459430,50,Fe,Iron,IRON ORE,20221018
+S0018722,Marillana Ck W1,Marillana Creek Western Mesa 1,Operating,Marillana Creek - Yandi / BHPB,119.000198,-22.715599,705439,7486577,50,Fe,Iron,IRON ORE,20221018
+S0019054,J1 West,Mt Jackson J1 West (Stages 1-5),Operating,Koolyanobbing Iron,119.163267,-30.222323,708200,6654600,50,Fe,Iron,IRON ORE,20221018
+S0019060,W1 East,Windarling W1 East,Operating,Koolyanobbing Iron,119.26669,-30.011967,718619,6677725,50,Fe,Iron,IRON ORE,20221018
+S0019062,W3,Windarling W3,Operating,Koolyanobbing Iron,119.289272,-30.012375,720797,6677636,50,Fe,Iron,IRON ORE,20221018
+S0019222,4W,Paraburdoo 4 West,Operating,Paraburdoo / Rio Tinto,117.579201,-23.22827,559257,7431092,50,Fe,Iron,IRON ORE,20221018
+S0019223,32E,Paraburdoo 32 East,Operating,Paraburdoo / Rio Tinto,117.682198,-23.253071,569782,7428300,50,Fe,Iron,IRON ORE,20221018
+S0019224,39E,Paraburdoo 39 East,Operating,Paraburdoo / Rio Tinto,117.7052,-23.25864,572132,7427673,50,Fe,Iron,IRON ORE,20221018
+S0019225,37E,Paraburdoo 37 East,Operating,Paraburdoo / Rio Tinto,117.694,-23.26259,570985,7427241,50,Fe,Iron,IRON ORE,20221018
+S0019226,42E,Paraburdoo 42 East,Operating,Paraburdoo / Rio Tinto,117.7071,-23.26511,572323,7426955,50,Fe,Iron,IRON ORE,20221018
+S0019228,Section 6,Tom Price Section 6 Pit,Operating,Tom Price / Rio Tinto,117.755603,-22.773079,577566,7481402,50,Fe,Iron,IRON ORE,20221018
+S0019230,Section 7E2,Tom Price Section 7 East 2,Operating,Tom Price / Rio Tinto,117.725098,-22.7684,574436,7481935,50,Fe,Iron,IRON ORE,20221018
+S0019283,4E,Paraburdoo 4 East (Main Pit),Operating,Paraburdoo / Rio Tinto,117.601402,-23.235149,561526,7430321,50,Fe,Iron,IRON ORE,20221018
+S0019285,Lens B,Nammuldi Lens B,Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.330399,-22.425831,534001,7520000,50,Fe,Iron,IRON ORE,20221018
+S0019288,Lens D,Nammuldi Lens D,Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.354897,-22.410431,536526,7521699,50,Fe,Iron,IRON ORE,20221018
+S0019300,Delta Pits,Delta - Roy Hill,Operating,Roy Hill Iron Ore,119.972073,-22.470768,805855,7512030,50,Fe,Iron,IRON ORE,20221018
+S0020088,A-WPN,West Angelas Deposit A - West Pit North,Operating,West Angelas,118.750099,-23.176769,679137,7435834,50,Fe,Iron,IRON ORE,20221018
+S0020355,A-CPN,West Angelas Deposit A - Centre Pit North,Operating,West Angelas,118.784599,-23.18494,682658,7434887,50,Fe,Iron,IRON ORE,20221018
+S0020371,Hairpin,Junction Central - Hairpin,Operating,Yandicoogina / HI-Yandi,119.235001,-22.755171,729498,7481850,50,Fe,Iron,IRON ORE,20221018
+S0020372,Water Stand,Junction Central - Water Stand,Operating,Yandicoogina / HI-Yandi,119.239206,-22.781833,729886,7478891,50,Fe,Iron,IRON ORE,20221018
+S0020373,JSE,Junction Southeast (JSE),Operating,Yandicoogina / HI-Yandi,119.260803,-22.795231,732080,7477373,50,Fe,Iron,IRON ORE,20221018
+S0020558,T.P. North West,Tom Price North West,Operating,Tom Price / Rio Tinto,117.740196,-22.74366,576000,7484666,50,Fe,Iron,IRON ORE,20221018
+S0020560,T.P. Southern Ridge,Tom Price Southern Ridge,Operating,Tom Price / Rio Tinto,117.752701,-22.761169,577274,7482721,50,Fe,Iron,IRON ORE,20221018
+S0020561,T.P. Synclines,Tom Price Synclines,Operating,Tom Price / Rio Tinto,117.762497,-22.76313,578279,7482499,50,Fe,Iron,IRON ORE,20221018
+S0020563,TP SE Prong,Tom Price South East Prong,Operating,Tom Price / Rio Tinto,117.784433,-22.775931,580524,7481071,50,Fe,Iron,IRON ORE,20221018
+S0020577,Centre Pit,Marandoo Centre Pit,Operating,Marandoo / Rio Tinto,118.139999,-22.64666,617136,7495145,50,Fe,Iron,IRON ORE,20221018
+S0020580,SW Ext Pit,Marandoo South West Extension Pit,Operating,Marandoo / Rio Tinto,118.118154,-22.640029,614897,7495896,50,Fe,Iron,IRON ORE,20221018
+S0020581,Tail Pit,Marandoo Tail Pit,Operating,Marandoo / Rio Tinto,118.152199,-22.651699,618385,7494577,50,Fe,Iron,IRON ORE,20221018
+S0020592,MAC C East,MAC - Deposit C East Pit,Operating,Mining Area C,118.986854,-22.929374,703750,7462922,50,Fe,Iron,IRON ORE,20221018
+S0020736,F3,Koolyanobbing F3,Operating,Koolyanobbing Iron,119.613147,-30.876473,749829,6581163,50,Fe,Iron,IRON ORE,20221018
+S0020737,F2,Koolyanobbing F2,Operating,Koolyanobbing Iron,119.607697,-30.872431,749318,6581623,50,Fe,Iron,IRON ORE,20221018
+S0020742,Karara Magnetite,Karara - Blue Hills Magnetite,Operating,Karara - Blue Hills / Gindalbie,116.774427,-29.187544,478069,6771215,50,Fe Mag,Iron,IRON ORE,20221018
+S0020981,Koolan Main,Koolan Main,Operating,Koolan Island,123.738098,-16.13303,578919,8216208,51,Fe,Iron,IRON ORE,20221018
+S0021183,Southern Detritals,Channar Southern Detritals,Operating,Channar,117.846121,-23.318363,586509,7420984,50,Fe,Iron,IRON ORE,20221018
+S0021265,Eyre,Eyre,Operating,East Pilbara Iron Ore / FMG,119.849593,-22.379427,793435,7522395,50,Fe,Iron,IRON ORE,20221018
+S0021378,W3E,Wheelarra 3 East,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.115303,-23.373011,205104,7412240,51,Fe,Iron,IRON ORE,20221018
+S0021415,Western 4,Marillana Creek Western Mesa 4,Operating,Marillana Creek - Yandi / BHPB,119.023697,-22.732599,707828,7484662,50,Fe,Iron,IRON ORE,20221018
+S0021416,Marillana Ck W5,Marillana Creek Western Mesa 5,Under Development,Marillana Creek - Yandi / BHPB,119.048599,-22.7293,710391,7484992,50,Fe,Iron,IRON ORE,20221018
+S0021419,Marillana Ck E1,Marillana Creek Eastern Mesa 1,Operating,Marillana Creek - Yandi / BHPB,119.098701,-22.73716,715526,7484049,50,Fe,Iron,IRON ORE,20221018
+S0021420,Marillana Ck E3,Marillana Creek Eastern Mesa 3,Operating,Marillana Creek - Yandi / BHPB,119.126404,-22.75844,718338,7481652,50,Fe,Iron,IRON ORE,20221018
+S0021422,Marillana Ck E5,Marillana Creek Eastern Mesa 5,Operating,Marillana Creek - Yandi / BHPB,119.134499,-22.76412,719160,7481011,50,Fe,Iron,IRON ORE,20221018
+S0021423,Marillana Ck E6,Marillana Creek Eastern Mesa 6,Operating,Marillana Creek - Yandi / BHPB,119.138397,-22.768881,719553,7480478,50,Fe,Iron,IRON ORE,20221018
+S0021606,24E,Paraburdoo 24 East,Operating,Paraburdoo / Rio Tinto,117.652603,-23.256321,566753,7427955,50,Fe,Iron,IRON ORE,20221018
+S0021820,Joyners Find - JWD,Joyners Find - JWD,Operating,Wiluna West Iron,119.954639,-26.791821,793761,7033206,50,Fe,Iron,IRON ORE,20221018
+S0022015,Phils Creek,Phils Creek - Three Sisters CID,Operating,Phils Creek / PMI,119.187809,-22.737048,724680,7483930,50,Fe,Iron,IRON ORE,20221018
+S0022158,Pit3 E,Brockman 4 - Pit 3 East,Operating,Brockman 4 Area / Rio Tinto,117.229616,-22.596942,523601,7501079,50,Fe,Iron,IRON ORE,20221018
+S0022159,Pit2 Interim,Brockman 4 - Pit 2 Interim,Operating,Brockman 4 Area / Rio Tinto,117.178072,-22.609483,518301,7499698,50,Fe,Iron,IRON ORE,20221018
+S0022230,Brockman 2 Pit 7,Brockman 2 - Pit 7 (Detritals),Operating,Brockman 2 - Nammuldi - Silvergrass - Homestead / Rio Tinto,117.369301,-22.441111,538000,7518300,50,Fe,Iron,IRON ORE,20221018
+S0022265,Split Rock,Split Rock,Operating,Sanjiv Ridge,119.666135,-21.47369,776278,7623072,50,Fe,Iron,IRON ORE,20221018
+S0022532,Cardo Bore East,Cardo Bore East,Under Development,West Pilbara - Red Hill / API,116.22877,-22.193978,420500,7545500,50,Fe,Iron,IRON ORE,20221018
+S0022686,C4,C4 - Wiluna West,Operating,Wiluna West Iron,119.937302,-26.680361,792321,7045601,50,Fe,Iron,IRON ORE,20221018
+S0022812,Paulsens East Main Pit,Paulsens East Main Pit,Operating,Paulsens East Iron,116.336959,-22.562845,431832,7504720,50,Fe,Iron,IRON ORE,20221018
+S0022821,North MM East Pits,North Marra Mamba East Pits 1-4,Under Development,Wonmunna Iron,119.074177,-23.127015,712398,7440909,50,Fe,Iron,IRON ORE,20221018
+S0022842,Cardo Bore NW,Cardo Bore North West,Under Development,West Pilbara - Red Hill / API,116.213501,-22.148736,418900,7550500,50,Fe,Iron,IRON ORE,20221018
+S0022843,Kens Bore,Kens Bore,Under Development,West Pilbara - Red Hill / API,116.195794,-22.055688,417020,7560790,50,Fe,Iron,IRON ORE,20221018
+S0023052,Kangaroo,Kangaroo - Main Break - Cloudbreak,Operating,East Pilbara Iron Ore / FMG,119.260399,-22.285521,732894,7533827,50,Fe,Iron,IRON ORE,20221018
+S0023054,Hayman,Hayman - Three Bears,Operating,East Pilbara Iron Ore / FMG,119.402367,-22.33364,747442,7528271,50,Fe,Iron,IRON ORE,20221018
+S0023105,Iron Ridge,Iron Ridge,Operating,Iron Ridge,117.684502,-26.943939,567948,7019590,50,Fe TiO2 Mn,Iron,IRON ORE,20221018
+S0023219,Cochrane,Cochrane,Under Development,West Pilbara - Red Hill / API,116.132459,-21.921578,410400,7575600,50,Fe,Iron,IRON ORE,20221018
+S0023220,Jewel CID,Jewel CID,Under Development,West Pilbara - Red Hill / API,116.138186,-21.935159,411000,7574100,50,Fe,Iron,IRON ORE,20221018
+S0023281,West End,Eliwana West End,Operating,Western Hub / FMG,116.830554,-22.493687,482571,7512517,50,Fe,Iron,IRON ORE,20221018
+S0023347,Mungada East Ext,Mungada East Extension,Operating,Koolanooka & Blue Hills - Mungada / Sinosteel,116.888651,-29.140225,489169,6776473,50,Fe,Iron,IRON ORE,20221018
+S0023551,Catho Well North,Catho Well North Pits,Under Development,West Pilbara - Red Hill / API,116.24486,-22.380591,422262,7524851,50,Fe,Iron,IRON ORE,20221018
+S0023552,Trinity Bore Iron,Trinity Bore Iron,Under Development,West Pilbara - Red Hill / API,116.336662,-22.354352,431700,7527800,50,Fe,Iron,IRON ORE,20221018
+S0023559,Kings,Kings-Solomon,Operating,Solomon - Greater Solomon,117.869826,-22.159468,589686,7549265,50,Fe,Iron,IRON ORE,20221018
+S0023569,Mt Caudan Central,Mt Caudan Central Open Pit,Operating,Parker Range - Mt Caudan Iron,119.555621,-31.614569,742432,6499449,50,Fe,Iron,IRON ORE,20221018
+S0023644,Firetail North,Firetail North,Operating,Solomon - Greater Solomon,117.925752,-22.117679,595481,7553857,50,Fe,Iron,IRON ORE,20221018
+S0032004,Kens Bore East,Kens Bore East,Under Development,West Pilbara - Red Hill / API,116.221882,-22.076233,419723,7558530,50,Fe,Iron,IRON ORE,20221018
+S0222904,Marandoo MMP2 Pit,Marandoo MMP2 Pit,Operating,Marandoo / Rio Tinto,118.167892,-22.649534,620000,7494805,50,Fe,Iron,IRON ORE,20221018
+S0222918,Coondiner HD4 Central,Coondiner HD4 Central,Operating,Hope Downs Joint Venture,119.53912,-23.133013,760016,7439491,50,Fe,Iron,IRON ORE,20221018
+S0222919,Coondiner HD4 South,Coondiner HD4 South,Operating,Hope Downs Joint Venture,119.519623,-23.146805,757993,7437998,50,Fe,Iron,IRON ORE,20221018
+S0222920,Coondiner HD4 West,Coondiner HD4 West,Operating,Hope Downs Joint Venture,119.504036,-23.136219,756416,7439198,50,Fe,Iron,IRON ORE,20221018
+S0223403,Fender,Fender - Mt Webber,Operating,Mt Webber ,119.29855,-21.543976,738056,7615893,50,Fe,Iron,IRON ORE,20221018
+S0223601,Sandtrax - Prancer,Sandtrax - Prancer,Under Development,Miralga Creek,119.188902,-21.111396,727362,7663959,50,Fe,Iron,IRON ORE,20221018
+S0223629,Central MM,Central Marra Mamba,Operating,Wonmunna Iron,119.003195,-23.14472,705100,7439050,50,Fe,Iron,IRON ORE,20221018
+S0223630,SMM East,South Marra Mamba East,Under Development,Wonmunna Iron,118.991075,-23.164236,703829,7436905,50,Fe,Iron,IRON ORE,20221018
+S0223643,Daltons,Daltons-Gibson,Operating,Mt Webber ,119.308488,-21.530189,739109,7617405,50,Fe,Iron,IRON ORE,20221018
+S0223837,Queens,Queens,Operating,Solomon - Greater Solomon,117.769485,-22.128667,579357,7552731,50,Fe,Iron,IRON ORE,20221018
+S0223838,Trinity - Solomon,Trinity - Solomon,Operating,Solomon - Greater Solomon,117.846853,-22.122345,587340,7553388,50,Fe,Iron,IRON ORE,20221018
+S0224200,Firetail South,Firetail South,Operating,Solomon - Greater Solomon,117.918,-22.141,594666,7551280,50,Fe,Iron,IRON ORE,20221018
+S0224380,Iron Valley Stage 1,Iron Valley Stage 1,Operating,Iron Valley,119.312614,-22.731714,737512,7484326,50,Fe,Iron,IRON ORE,20221018
+S0224627,Flinders,Flinders - Christmas Creek,Operating,East Pilbara Iron Ore / FMG,119.720226,-22.37121,780123,7523552,50,Fe,Iron,IRON ORE,20221018
+S0224628,Mokare,Mokare - Christmas Creek,Operating,East Pilbara Iron Ore / FMG,119.76394,-22.363306,784643,7524346,50,Fe,Iron,IRON ORE,20221018
+S0224650,OB 18 East,Mt Newman Orebody 18 East - Shovelanna Hill,Operating,Newman / BHPB,120.057303,-23.320586,199053,7417929,51,Fe,Iron,IRON ORE,20221018
+S0224652,OB 25 - Pit 4,Mt Newman Orebody 25 - Pit 4,Operating,Newman / BHPB,119.784358,-23.332051,784720,7416980,50,Fe,Iron,IRON ORE,20221018
+S0224710,Deception,Deception / Cliffs,Operating,Koolyanobbing Iron,119.280916,-29.850399,720347,6695607,50,Fe Hem,Iron,IRON ORE,20221018
+S0224836,North Star magnetite,North Star magnetite (Stage 2),Under Development,Iron Bridge,119.053588,-21.250187,713103,7648778,50,Fe Mag,Iron,IRON ORE,20221018
+S0225517,The Claw,The Claw,Operating,Koolyanobbing Iron,119.26769,-29.857519,719054,6694843,50,Fe,Iron,IRON ORE,20221018
+S0225706,W3W,Wheelarra 3 West,Operating,Jimblebar-Wheelarra-Hashimoto / BHPB,120.106096,-23.373013,204163,7412221,51,Fe,Iron,IRON ORE,20221018
+S0225753,Cocos,Cocos - Cloud Break,Operating,East Pilbara Iron Ore / FMG,119.501622,-22.343763,757651,7526983,50,Fe,Iron,IRON ORE,20221018
+S0225754,Long,Long - Cloud Break,Operating,East Pilbara Iron Ore / FMG,119.462954,-22.343211,753668,7527110,50,Fe,Iron,IRON ORE,20221018
+S0225755,Baudin,Baudin,Operating,East Pilbara Iron Ore / FMG,119.862692,-22.380857,794782,7522211,50,Fe,Iron,IRON ORE,20221018
+S0230299,Young,Young,Operating,East Pilbara Iron Ore / FMG,119.803081,-22.39782,788605,7520447,50,Fe Mn,Iron,IRON ORE,20221018
+S0230393,HD1 NW,Hope Downs 1 North West,Operating,Hope Downs Joint Venture,119.099793,-22.951863,715300,7460270,50,Fe,Iron,IRON ORE,20221018
+S0230394,HD1 NE3,Hope Downs 1 North East 3,Operating,Hope Downs Joint Venture,119.137386,-22.953708,719153,7460010,50,Fe,Iron,IRON ORE,20221018
+S0230398,A-CPs,West Angelas Deposit A - Centre Pit South,Operating,West Angelas,118.775693,-23.190224,681740,7434313,50,Fe,Iron,IRON ORE,20221018
+S0230405,Section 6 South,Tom Price Section 6 South,Operating,Tom Price / Rio Tinto,117.744875,-22.78018,576461,7480621,50,Fe,Iron,IRON ORE,20221018
+S0230406,Section 7C2,Tom Price Section 7 Central 2,Operating,Tom Price / Rio Tinto,117.718501,-22.767716,573760,7482015,50,Fe,Iron,IRON ORE,20221018
+S0230408,Tail Extension Pit,Marandoo Tail Extension Pit,Operating,Marandoo / Rio Tinto,118.172912,-22.661082,620506,7493522,50,Fe,Iron,IRON ORE,20221018
+S0230415,Miralga East - Comet,Miralga East-Comet Pit,Operating,Miralga Creek,119.424783,-20.972158,752107,7679023,50,Fe,Iron,IRON ORE,20221018
+S0230416,Pit3 W,Brockman 4 - Pit 3 West,Operating,Brockman 4 Area / Rio Tinto,117.200339,-22.600088,520591,7500735,50,Fe,Iron,IRON ORE,20221018
+S0230417,Pit2 Final,Brockman 4 - Pit 2 Final,Operating,Brockman 4 Area / Rio Tinto,117.168049,-22.61351,517271,7499254,50,Fe,Iron,IRON ORE,20221018
+S0230572,Stage 2 / Pit N,Iron Valley Stage 2 / Pit N,Operating,Iron Valley,119.31734,-22.719705,738018,7485648,50,Fe,Iron,IRON ORE,20221018
+S0231031,Runway North,Runway North,Operating,Sanjiv Ridge,119.679253,-21.420504,777739,7628940,50,Fe,Iron,IRON ORE,20221018
+S0231032,Shark Gully,Shark Gully / Atlas,Operating,Sanjiv Ridge,119.669611,-21.450806,776682,7625601,50,Fe,Iron,IRON ORE,20221018
+S0231635,B1 Sat,Turner Syncline B1 Satellite,Operating,Turner Syncline West,117.472463,-22.67876,548533,7491964,50,Fe,Iron,IRON ORE,20221018
+S0232120,NMM West,North Marra Mamba West,Operating,Wonmunna Iron,119.048777,-23.122646,709803,7441430,50,Fe,Iron,IRON ORE,20221018
+S0232472,F1,Koolyanobbing F1,Operating,Koolyanobbing Iron,119.604352,-30.869792,749005,6581923,50,Fe,Iron,IRON ORE,20221018
+S0232834,Red Hill Creek West,Red Hill Creek West,Under Development,West Pilbara - Red Hill / API,116.292816,-22.077104,427042,7558469,50,Fe,Iron,IRON ORE,20221018
+S0232873,W7 New,Windarling W7 New,Operating,Koolyanobbing Iron,119.245668,-30.006664,716603,6678353,50,Fe,Iron,IRON ORE,20221018
+S0233083,Bravo Pits,Bravo - Roy Hill,Operating,Roy Hill Iron Ore,119.925829,-22.470314,801094,7512174,50,Fe,Iron,IRON ORE,20221018
+S0233084,Zulu Pits,Zulu - Roy Hill,Operating,Roy Hill Iron Ore,119.896004,-22.443007,798081,7515259,50,Fe,Iron,IRON ORE,20221018
+S0233295,Baby Hope Central,Baby Hope Central,Operating,Hope Downs Joint Venture,119.058934,-23.016613,711009,7453158,50,Fe,Iron,IRON ORE,20221018
+S0233296,Baby Hope East,Baby Hope East,Operating,Hope Downs Joint Venture,119.087417,-23.013262,713934,7453488,50,Fe,Iron,IRON ORE,20221018
+S0233297,Baby Hope West,Baby Hope West,Operating,Hope Downs Joint Venture,119.039133,-23.017222,708978,7453119,50,Fe,Iron,IRON ORE,20221018
+S0233907,W10,Windarling W10,Operating,Koolyanobbing Iron,119.259221,-30.011667,717900,6677772,50,Fe,Iron,IRON ORE,20221018
+S0233969,Echo Pits,Echo - Roy Hill,Operating,Roy Hill Iron Ore,119.959538,-22.494661,804512,7509409,50,Fe,Iron,IRON ORE,20221018
+S0233970,Golf Pits,Golf - Roy Hill,Operating,Roy Hill Iron Ore,119.984053,-22.517949,806984,7506778,50,Fe,Iron,IRON ORE,20221018
+S0234537,Abrolhos,Cloudbreak - Abrolhos,Operating,East Pilbara Iron Ore / FMG,119.323753,-22.268512,739453,7535611,50,Fe,Iron,IRON ORE,20221018
+S0234755,Westside,Eliwana Westside,Operating,Western Hub / FMG,116.868871,-22.492958,486512,7512602,50,Fe,Iron,IRON ORE,20221018
+S0234928,Runway South,Runway South,Operating,Sanjiv Ridge,119.679793,-21.423504,777789,7628607,50,Fe,Iron,IRON ORE,20221018
+S0235123,MAC F West,MAC - Deposit F West,Operating,Mining Area C,118.847639,-22.941503,689453,7461765,50,Fe,Iron,IRON ORE,20221018
+S0235124,MAC E West,MAC - Deposit E West Pit,Operating,Mining Area C,118.875894,-22.933634,692362,7462599,50,Fe,Iron,IRON ORE,20221018
+S0235993,Sierra Pits,Sierra - Roy Hill,Operating,Roy Hill Iron Ore,120.01152,-22.557215,192647,7502418,51,Fe,Iron,IRON ORE,20221018
+S0236214,Frederick West,Frederick West,Under Development,Solomon - Greater Solomon,117.87746,-22.227412,590429,7541739,50,Fe,Iron,IRON ORE,20221018
+S0236215,Frederick East,Frederick East,Under Development,Solomon - Greater Solomon,117.894904,-22.227627,592227,7541705,50,Fe,Iron,IRON ORE,20221018
+S0238303,Mt Caudan South,Mt Caudan South Open Pit,Operating,Parker Range - Mt Caudan Iron,119.551693,-31.626094,742030,6498180,50,Fe,Iron,IRON ORE,20221018
+S0238304,Mt Caudan North,Mt Caudan North Open Pit,Operating,Parker Range - Mt Caudan Iron,119.557558,-31.607856,742634,6500189,50,Fe,Iron,IRON ORE,20221018
+S0238514,Cathedral,Cathedral - Christmas Creek,Operating,East Pilbara Iron Ore / FMG,119.830589,-22.407888,791417,7519278,50,Fe,Iron,IRON ORE,20221018
+S0238550,Adelle,Adelle - Cloudbreak,Operating,East Pilbara Iron Ore / FMG,119.44835,-22.319411,752205,7529770,50,Fe,Iron,IRON ORE,20221018
+S0238551,Cockatoo,Cockatoo - Cloudbreak,Operating,East Pilbara Iron Ore / FMG,119.327125,-22.307419,739733,7531296,50,Fe,Iron,IRON ORE,20221018
+S0238552,Norfolk,Norfolk - Cloudbreak,Operating,East Pilbara Iron Ore / FMG,119.294325,-22.313983,736342,7530621,50,Fe,Iron,IRON ORE,20221018
+S0239230,Miralga W-Rudolph,Miralga West - Rudolph,Operating,Miralga Creek,119.318785,-21.023512,740999,7673500,50,Fe,Iron,IRON ORE,20221018
+S0239437,Miralga East-Vixen,Miralga East - Vixen,Under Development,Miralga Creek,119.431357,-20.971593,752792,7679075,50,Fe,Iron,IRON ORE,20221018
+S0239438,Miralga East - Dasher,Miralga East - Dasher,Under Development,Miralga Creek,119.436985,-20.972796,753376,7678933,50,Fe,Iron,IRON ORE,20221018
+S0239823,Bigge,Bigge - Cloudbreak,Operating,East Pilbara Iron Ore / FMG,119.205929,-22.286159,727278,7533838,50,Fe,Iron,IRON ORE,20221018
+S0239824,Norfolk North,Norfolk North - Cloudbreak,Operating,East Pilbara Iron Ore / FMG,119.318192,-22.289123,738844,7533337,50,Fe,Iron,IRON ORE,20221018
+S0001174,Halleys,Halleys,Operating,Ravensthorpe - First Quantum,120.374303,-33.633382,256453,6275400,51,Ni Co Mg,Steel alloy metal,NICKEL,20221018
+S0001258,Goliath North,Goliath North - Mt Keith Satellite,Operating,Mt Keith / BHP Billiton,120.58921,-27.44865,261729,6961560,51,Ni,Steel alloy metal,NICKEL,20221018
+S0001288,Durkin N,Durkin North,Operating,Kambalda / Mincor,121.661201,-31.164049,372404,6551446,51,Ni Cu Co,Steel alloy metal,NICKEL,20221018
+S0001300,Lanfranchi,Lanfranchi,Under Development,Lanfranchi Tramways,121.842903,-31.505461,390120,6513798,51,Ni Cu,Steel alloy metal,NICKEL,20221018
+S0001375,Cliffs,Cliffs Underground,Operating,Leinster,120.541753,-27.304974,256722,6977390,51,Ni Cu,Steel alloy metal,NICKEL,20221018
+S0001456,Six Mile Well,Six Mile Well - Mt Keith Satellite,Operating,Mt Keith / BHP Billiton,120.57824,-27.422664,260588,6964418,51,Ni,Steel alloy metal,NICKEL,20221018
+S0001583,Rockys Reward Pit,Rockys Reward Openpit,Operating,Leinster,120.697197,-27.791439,273113,6923774,51,Ni Cu,Steel alloy metal,NICKEL,20221018
+S0001585,Perseverance UG,Perseverance  Underground,Operating,Leinster,120.705597,-27.818119,273997,6920833,51,Ni Cu Gsp,Steel alloy metal,NICKEL,20221018
+S0001667,Mt Keith,Mt Keith Open Pit,Operating,Mt Keith / BHP Billiton,120.54174,-27.229599,256557,6985744,51,Ni,Steel alloy metal,NICKEL,20221018
+S0004288,Beta Hunt,Beta Hunt Underground Nickel,Operating,Kambalda Nickel / RNC,121.689961,-31.242554,375248,6542777,51,Ni Cu,Steel alloy metal,NICKEL,20221018
+S0005040,Murrin North,Murrin North (PAN Production),Operating,Murrin Murrin / Minara,121.8955,-28.747169,392157,6819525,51,Ni Co,Steel alloy metal,NICKEL,20221018
+S0005631,Hale-Bopp,Hale-Bopp,Operating,Ravensthorpe - First Quantum,120.400034,-33.666733,258933,6271762,51,Ni Co FeOre Al Mg Ca Carb Cu Zn,Steel alloy metal,NICKEL,20221018
+S0006685,Shoemaker-Levy,Shoemaker - Levy,Operating,Ravensthorpe - First Quantum,120.325452,-33.576416,251757,6281603,51,Ni Co FeOre Al Mg Ca Carb Cu Zn,Steel alloy metal,NICKEL,20221018
+S0019030,Cosmos Deeps,Cosmos Deeps,Under Development,Cosmos,120.575875,-27.596973,260732,6945096,51,Ni Cu Co Pt Pd,Steel alloy metal,NICKEL,20221018
+S0019821,Decline Portal,Savannah Decline Portal,Operating,Savannah Nickel,128.027695,-17.3526,396696,8081176,52,Ni Cu Co,Steel alloy metal,NICKEL,20221018
+S0021101,Murrin South,Murrin South (PAS Production),Operating,Murrin Murrin / Minara,121.783997,-28.95483,381505,6796410,51,Ni Co,Steel alloy metal,NICKEL,20221018
+S0021282,Flying Fox Boxcut,Flying Fox New Boxcut / Western Areas,Operating,Forrestania Nickel / Western Areas,119.695596,-32.421177,753483,6409680,50,Ni,Steel alloy metal,NICKEL,20221018
+S0021890,Cassini,Cassini,Operating,Widgiemooltha Nickel / Mincor,121.621101,-31.700939,369329,6491886,51,Ni Cu Co,Steel alloy metal,NICKEL,20221018
+S0022042,T5,T5 - Flying Fox Underground,Operating,Forrestania Nickel / Western Areas,119.689003,-32.417782,752872,6410072,50,Ni Cu Co,Steel alloy metal,NICKEL,20221018
+S0023498,Lounge Lizard Ni,Lounge Lizard Nickel Underground,Operating,Forrestania Nickel / Western Areas,119.69219,-32.425579,753150,6409200,50,Ni,Steel alloy metal,NICKEL,20221018
+S0224582,Spotted Quoll UG,Spotted Quoll Main and North Underground,Operating,Forrestania Nickel / Western Areas,119.677774,-32.478151,751648,6403404,50,Ni Co,Steel alloy metal,NICKEL,20221018
+S0229634,Nova,Nova - Bollinger Underground,Operating,Nova-Bollinger,123.192413,-31.819886,518210,6479512,51,Ni Cu Co,Steel alloy metal,NICKEL,20221018
+S0229741,Odysseus South,Odysseus South,Under Development,Cosmos,120.575875,-27.596973,260732,6945096,51,Ni Cu Co Pt Pd,Steel alloy metal,NICKEL,20221018
+S0229742,Odysseus N,Odysseus North,Under Development,Cosmos,120.575875,-27.596973,260732,6945096,51,Ni Cu Co Pt Pd,Steel alloy metal,NICKEL,20221018
+S0229754,Long,Long Underground,Operating,Kambalda / Mincor,121.683531,-31.18112,374555,6549579,51,Ni Cu,Steel alloy metal,NICKEL,20221018
+S0230111,Bollinger,Bollinger - Fraser Range Underground,Operating,Nova-Bollinger,123.194386,-31.819888,518397,6479512,51,Ni Cu Co,Steel alloy metal,NICKEL,20221018
+S0230357,Venus,Venus - Leinster,Operating,Leinster,120.705816,-27.813744,274009,6921318,51,Ni,Steel alloy metal,NICKEL,20221018
+S0231120,Murrin East ,Murrin East (PAE Production),Operating,Murrin Murrin / Minara,122.176121,-29.073484,419810,6783593,51,Ni Co,Steel alloy metal,NICKEL,20221018
+S0231765,Savannah North,Savannah North,Operating,Savannah Nickel,128.017007,-17.338411,395552,8082741,52,Ni Cu Co,Steel alloy metal,NICKEL,20221018
+S0232023,Boxcut,Nova-Bollinger Boxcut,Operating,Nova-Bollinger,123.174503,-31.812592,516516,6480324,51,Ni Cu Co,Steel alloy metal,NICKEL,20221018
+S0237887,Cassini UG,Cassini Underground,Under Development,Widgiemooltha Nickel / Mincor,121.62647,-31.70971,369850,6490920,51,Ni Au,Steel alloy metal,NICKEL,20221018
