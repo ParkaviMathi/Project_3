@@ -1,4 +1,4 @@
-site_code,short_title,stage,longitude,latitude,target_group_name
+site_code,short_title,stage,lon,lat,target_group_name
 S0001726,Boddington Bauxite,Operating,116.455902,-32.931561,BAUXITE - ALUMINA
 S0001739,Willowdale,Operating,116.014801,-32.920719,BAUXITE - ALUMINA
 S0003638,Marradong,Operating,116.434898,-32.836769,BAUXITE - ALUMINA

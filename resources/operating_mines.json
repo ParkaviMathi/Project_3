@@ -1,7 +1,6 @@
 {
-  "data": {
-    "mines":
-[
+  "DATA": {
+    "MINE": [
   {
     "SITE_CODE": "S0001726",
     "SHORT_TITLE": "Boddington Bauxite",
