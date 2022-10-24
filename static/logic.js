@@ -6,19 +6,34 @@ let map = new mapboxgl.Map({
     center: [121.6, -24.4], // starting position [lng, lat]
     zoom: 3.6, // starting zoom
     });
-    map.on('style.load', () => {
-    });
+   
+// map.on('style.load', () => {    
+//     map.addSource('mine-data', {
+//         type: 'geojson',
+//         data: 'resources/operating_mines.json'
+// });
 
-function createMarkers(response) {
-    let mines = response.data.MINE;
-    let mineMarkers = [];
+// map.addlayer({
+//     'id': 'mines',
+//     'type': 'circle'
+//     'source': 'mine-data',
+//     'paint': {
+//         'circle-radius': 4,
+//         'circle-color': 'red'
+//     }
+    
+// })
 
-    for (let index = 0; index <MINE.length; index++) {
-        let mine = mines[index];
+// // function createMarkers(response) {
+// //     let mines = response.data.MINE;
+// //     let mineMarkers = [];
 
-        let mineMarker = L.marker([MINE.LATITUDE, MINE.LONGITUDE])
-            .bindPopup("<h3>" + MINE.SHORT_TITLE + "<h3><h3>Commodity: " + MINE.TARGET_GROUP_NAME + "</h3>");
+// //     for (let index = 0; index <MINE.length; index++) {
+// //         let mine = mines[index];
 
-        mineMarkers.push(mineMarker);
-    }
-}
+// //         let mineMarker = L.marker([MINE.LATITUDE, MINE.LONGITUDE])
+// //             .bindPopup("<h3>" + MINE.SHORT_TITLE + "<h3><h3>Commodity: " + MINE.TARGET_GROUP_NAME + "</h3>");
+
+// //         mineMarkers.push(mineMarker);
+// //     }
+// // }
