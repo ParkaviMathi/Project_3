@@ -11,7 +11,8 @@ const map = new mapboxgl.Map({
 map.on('load', () => {
     map.addSource('mines', {
         type: 'geojson',
-        data: 'https://github.com/ParkaviMathi/Project_3/blob/main/resources/clean_mines.geojson'
+        data: 'static/clean_mines.geojson'
+        // data: 'https://github.com/ParkaviMathi/Project_3/blob/main/resources/clean_mines.geojson'
     });
 
     map.on('style.load', () => {
