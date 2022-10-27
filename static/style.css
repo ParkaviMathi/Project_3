@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
-    background-color: darkolivegreen;    
-=======
     background-color: #e7feff;
->>>>>>> 4110c76477fe7a9879a0911939b398b2e189f030
 }
 
 h1 {
@@ -23,8 +19,7 @@ p {
 }
 
 .mapboxgl-popup {
-    max-width: 400px;
-    font: 12px/20px 'Helvetica Neue', Arial, Helvetica, sans-serif;
+    max-width: 100px;
     }
 
 .mapboxgl-popup-content {

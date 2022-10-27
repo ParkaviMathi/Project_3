@@ -1,33 +1,20 @@
+// CREATE MAP
 const map = new mapboxgl.Map({
-<<<<<<< HEAD
-    container: 'map', // container ID
-    style: 'mapbox://styles/mapbox/streets-v11', // style URL
-    center: [121.6, -24.4], // starting position [lng, lat]
-    zoom: 3.6, // starting zoom
-    projection: 'globe'
-    });
-   
-map.on('load', () => {
-    map.addSource('mines', {
-        type: 'geojson',
-        data: 'static/clean_mines.geojson'
-        // data: 'https://github.com/ParkaviMathi/Project_3/blob/main/resources/clean_mines.geojson'
-    });
-=======
   container: "map", // container ID
   style: "mapbox://styles/rhockley82/cl9mtn0nf000814o7v7n28efm", // style URL
   center: [121.6, -24.4], // starting position [lng, lat]
   zoom: 3.6, // starting zoom
   projection: "globe",
 });
->>>>>>> 0817d2a61b65f937c92b190207d6f470cddbe0fe
 
+// DATA SOURCE
 map.on("load", () => {
   map.addSource("mines", {
     type: "geojson",
     data: "https://raw.githubusercontent.com/ParkaviMathi/Project_3/main/static/clean_mines.geojson",
   });
 
+// LAYERS
   map.addLayer({
     id: "gold",
     type: "circle",
@@ -72,6 +59,8 @@ map.on("load", () => {
     },
     filter: ["==", "target_group_name", "NICKEL"],
   });
+
+  // MENU
   map.on("idle", () => {
     // If these four layers were not added to the map, abort
     if (
@@ -122,28 +111,40 @@ map.on("load", () => {
       layers.appendChild(link);
     }
   });
-  map.on("click", "mines", (e) => {
-    // Copy coordinates array.
-    const coordinates = e.features[0].geometry.coordinates.slice();
-    const description = e.features[0].properties.short_title;
+  // POPUPS
+  map.on("click", function (e) {
+    var features = map.queryRenderedFeatures(e.point, {
+      layers: ["gold", "nickel", "iron", "bauxite"], // replace this with the name of the layer
+    });
 
-    // Ensure that if the map is zoomed out such that multiple
-    // copies of the feature are visible, the popup appears
-    // over the copy being pointed to.
-    while (Math.abs(e.lngLat.lng - coordinates[0]) > 180) {
-      coordinates[0] += e.lngLat.lng > coordinates[0] ? 360 : -360;
+    if (!features.length) {
+      return;
     }
 
-    new mapboxgl.Popup().setLngLat(coordinates).setHTML(description).addTo(map);
+    var feature = features[0];
+
+    var popup = new mapboxgl.Popup({ offset: [0, -15] })
+      .setLngLat(feature.geometry.coordinates)
+      .setHTML(
+        "<strong>" +
+          feature.properties.short_title +
+          "</strong><p>" +
+          feature.properties.target_group_name +
+          "</p><p>" +
+          feature.properties.stage +
+          "</p>"
+      ) // CHANGE THIS TO REFLECT THE PROPERTIES YOU WANT TO SHOW
+      .setLngLat(feature.geometry.coordinates)
+      .addTo(map);
   });
 
+  // CHANGE CURSOR
   // Change the cursor to a pointer when the mouse is over the places layer.
-  map.on("mouseenter", "mines", () => {
+  map.on("mouseenter", ["gold", "nickel", "iron", "bauxite"], function () {
     map.getCanvas().style.cursor = "pointer";
   });
-
-  // Change it back to a pointer when it leaves.
-  map.on("mouseleave", "mines", () => {
+  map.on("mouseleave", ["gold", "nickel", "iron", "bauxite"], function () {
     map.getCanvas().style.cursor = "";
+    popup.remove();
   });
 });
