@@ -9,6 +9,7 @@ h1 {
 
 p {
     text-align: center;
+    font-family: 'Monaco';
 }
 
 #map {
@@ -29,6 +30,7 @@ p {
 
 #info {
     text-align: center;
+    font-size:small;
 }
 
 #menu {
