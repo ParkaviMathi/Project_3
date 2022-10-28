@@ -25,7 +25,6 @@ Our idea was to have a dashboard showing three separate visualisations. The main
 Sources:  
 *  [Department of Mines, Industry Regulation, & Safety](https://dasc.dmirs.wa.gov.au/home?productAlias=MINEDEXOperatingMines) - MINDEX Operating Mines Map - (GDA1994) .CSV
 
-
 [Back to top](#project-3)
 
 ---
@@ -43,10 +42,15 @@ Sources:
 [Back to top](#project-3)
 
 ---
-## 4. FINAL DASHBOARD
+## 4. FINAL DASHBOARD AND PRESENTATION
 
+The final dashboard has an interactive menu that allows the user to choose which comodity is shown on the map. Each marker has a popup that shows the mine sites short name, target commodity, and operational status.
+
+The Javascript library used was [Mapbox GL JS](https://www.mapbox.com/) 
 
 ![Image](images/map_with_markers_and_menu.png)
+
+The presentation slides can be found [here](https://docs.google.com/presentation/d/1PPfKKndTFRHMGkfJ_Qz0hURKalBQIM8VvE-9795dGUo/edit#slide=id.p)
 
 [Back to top](#project-3)
 
